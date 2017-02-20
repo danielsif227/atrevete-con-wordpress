@@ -9,9 +9,10 @@ Una instalación de Wordpress para un centro educativo en CATEDU viene preinstal
 * Cookie Law Info: Mensaje de aceptación para cumplir con la normativa europea del uso de cookies.
 * Dropdown Menu Widget: Permite poner un menú de forma vertical en una barra lateral.
 * InfiniteWP - Client: Sirve para poder administrar el Wordpress de forma remota desde Catedu para realizar actualizaciones. ¡Ya no se va a usar desde CATEDU, se puede quitar!.
-* TinyMCE Advanced: Un editor de texto y HTML para las entradas, para hacer tablas o edición más avanzada en la edición de texto. Botón "Leer más": específico de Wordpress.
+* TinyMCE Advanced: Un editor de texto y HTML para las entradas, para edición más visual y avanzada del texto.
 * WP-SMTP: Sirve para que se puedan enviar correos de forma automática desde el Wordpress. Por ejemplo, cuando se da de alta un usuario.
 * Wordfence Security: Plugin con diversas opciones de seguridad para Wordpress y escaneo ante hackeos.
+* Hello Dolly: Plugin por defecto en la instalación de un Wordpress. No hace nada, mejor quitarlo. 
 
 
 

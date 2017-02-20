@@ -1,4 +1,10 @@
-## Imágenes
+## Biblioteca de Medios
+
+`Escritorio > Medios`
+
+En la biblioteca de Medios podremos subir documentos e imágenes al sitio web Wordpres.
+
+## Insertar imágenes
 
 Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opciones para hacerlo:
 
@@ -12,15 +18,11 @@ Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opcion
 
 ---
 
-Edición de la imagen:
+## Edición de una imagen:
 
 * Las imágenes se pueden editar en la librería de Medios \(`Escritorio > Medios > Biblioteca > Clic en el lápiz de editar imagen > Editar imagen > escalar/recortar/girar`\)
 
 ![](/assets/medios.png)
 
-Para organizar la biblioteca de medios con categorías:
-
-* Plugin Enhanced Media Library
-
-**EJERCICIO:** Añade en la entrada una o varias fotos, dándole al botón "**Añadir objeto**" =&gt; se guardan en la biblioteca de "**Medios**" de Wordpress
+**EJERCICIO:** Añade en las entradas que has creado una o varias fotos, dándole al botón "**Añadir objeto**" =&gt; se seleccionan desde tu PC y se guardan en la biblioteca de "**Medios**" de Wordpress
 

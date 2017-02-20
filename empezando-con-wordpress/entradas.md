@@ -1,6 +1,8 @@
 # ¡Adelante con la primera Entrada!
 
-En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" \(`Escritorio > Entradas > Añadir nueva`\)
+`Escritorio > Entradas > Añadir nueva`
+
+En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 
 ![](/assets/nueva_entrada.png)
 
@@ -27,4 +29,12 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" 
 * Cuidar la redacción
 
 **EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis"
+
+**EJERCICIO:** Añade un enlace a otra web dentro del contenido de una entrada
+
+**INTERESANTE:** Botón "**Leer más**": es específico de Wordpress, sirve para mostrar sólo una parte de la entrada y que el lector tenga que darle clic en "leer más..." para terminar de leer toda la entrada
+
+
+
+
 

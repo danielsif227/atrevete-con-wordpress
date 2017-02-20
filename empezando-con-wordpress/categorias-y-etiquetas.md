@@ -2,10 +2,14 @@ Las Categorías y Etiquetas son útiles **para clasificar las Entradas**
 
 #### CATEGORÍAS
 
+`Escritorio > Entradas > Categorías`
+
 * Podemos construir Jerarquía de Categorías
 * Ejemplos: Dirección, Departamento Matemáticas, Departamento Lengua, etc.![](/assets/categorias.png)
 
 #### ETIQUETAS
+
+`Escritorio > Entradas > Etiquetas`
 
 * No jerárquicas. Transversales
 * Ejemplos: Noticias, Extraescolar, etc.

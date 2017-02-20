@@ -4,9 +4,7 @@
 Escritorio > Apariencia > Menús
 ```
 
-Es esencial tener al menos un menú en el Wordpress.
-
-La alternativa a menús es clasificar las entradas por fecha, categoría, etiquetas, etc, mediante Widgets.
+Es esencial tener al menos un menú en el Wordpress. La alternativa a menús es clasificar las entradas por fecha, categoría, etiquetas, etc, mediante Widgets.
 
 **EJERCICIO: **Crea un menú, llámalo "MENU PRINCIPAL", con la siguiente estructura en dos niveles:
 
