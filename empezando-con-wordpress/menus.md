@@ -1,6 +1,8 @@
 # Menús
 
-Acceder a: Escritorio &gt; Apariencia &gt; Menús
+```
+Escritorio > Apariencia > Menús
+```
 
 Es esencial tener al menos un menú en el Wordpress.
 

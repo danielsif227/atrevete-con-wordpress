@@ -1,22 +1,22 @@
-\#\# Ajustes &gt; Comentarios
+## Comentarios sobre las Entradas
 
-- Desactivar:
+```
+Escritorio > Ajustes > Comentarios
+```
 
--- Tratar de avisar a los sitios enlazados desde el artículo 
+Deberemos ajustar los comentarios en el Wordpress para evitar que se llene de spam.
 
--- Permitir avisos de enlaces desde otros sitios \(pingbacks y trackbacks\) en los artículos nuevos 
+#### Desactivar:
 
--- Permite que se publiquen comentarios en los artículos nuevos =&gt; Quitar que se puedan añadir comentarios de aquí en adelante en entradas nuevas 
+* Tratar de avisar a los sitios enlazados desde el artículo
+* Permitir avisos de enlaces desde otros sitios \(pingbacks y trackbacks\) en los artículos nuevos
+* Permite que se publiquen comentarios en los artículos nuevos =&gt; Quitar que se puedan añadir comentarios de aquí en adelante en entradas nuevas
 
-- Activar:
+#### Activar:
 
--- El comentario debe aprobarse manualmente =&gt; Moderar los comentarios por si se permiten comentarios en alguna página específica
+* El comentario debe aprobarse manualmente =&gt; Moderar los comentarios por si se permiten comentarios en alguna página específica
 
+**AKISMET: **Plugin para la lucha contra el spam
 
-
-AKISMET: Plugin para la lucha contra el spam
-
-
-
-TRUCO para quitar que se puedan añadir comentarios en TODAS las páginas ya existentes: Ir al listado de páginas/entradas &gt; Opciones de pantalla \(para ampliar el número de páginas en el listado\) &gt; Seleccionar todas las entradas &gt; Acciones en lote &gt; Editar &gt; Comentarios = No permitir
+**TRUCO: **para quitar que se puedan añadir comentarios en TODAS las páginas ya existentes: `Escritorio > Entradas > Opciones de pantalla (para ampliar el número de páginas en el listado) > Seleccionar todas las entradas > Acciones en lote > Editar > Comentarios = No permitir`
 

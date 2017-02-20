@@ -14,7 +14,7 @@
   * [Gestión de usuarios](configurando-el-wordpress/gestion-de-usuarios.md)
   * [Temas](configurando-el-wordpress/temas.md)
   * [Widgets](widgets.md)
-  * [Ejercicio práctico](ejercicios-practicos.md)
+  * [Imagen lateral con enlace](ejercicios-practicos.md)
 * [Plugins](plugins.md)
   * [Plugins de Wordpress de CATEDU](plugins/plugins-de-wordpress-de-catedu.md)
   * [Jetpack](jetpack.md)
@@ -24,5 +24,5 @@
   * [Conectar Wordpress con Google Drive](conectar-wordpress-con-google-drive.md)
   * [Google Analytics](google-analytics.md)
 * [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
-  * Temas hijos
+  * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 

@@ -1,6 +1,6 @@
 # ¡Adelante con la primera Entrada!
 
-En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" \(Escritorio &gt; Entradas &gt; Añadir nueva\)
+En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" \(`Escritorio > Entradas > Añadir nueva`\)
 
 ![](/assets/import.png)
 
@@ -16,7 +16,7 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" 
 
 **PRIMER TRUCO:** "Opciones de pantalla" para ver más opciones
 
-**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en Ajustes &gt; Enlaces permanentes &gt; Nombre de la entrada
+**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
 
 ---
 
