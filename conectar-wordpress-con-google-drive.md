@@ -20,7 +20,7 @@ En la Configuración de la propiedad, podremos obtener el Id de seguimiento de U
 
 ![](/assets/paso5.png)
 
-Este ID de seguimiento, es el que tendremos que poner en los plugins de Wordpress para que usen Google Analytics. Los resultados de estadísticas de acceso los podremos ver en la web de Google Analytics \(ejemplo de cómo ver los datos que recopila Google Analytics: http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\).
+Este ID de seguimiento, es el que tendremos que poner en los plugins de Wordpress para que usen Google Analytics. Los resultados de estadísticas de acceso los podremos ver en la web de Google Analytics \(ejemplo de cómo ver los datos que recopila Google Analytics: [http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\](http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\)\).
 
 Hay que ir a la web de Gestión de Google API:  [https://console.developers.google.com/](https://console.developers.google.com/) y ahí crear un nuevo proyecto y ponerle nombre \(por ejemplo Curso WP\):
 
@@ -28,21 +28,11 @@ Hay que ir a la web de Gestión de Google API:  [https://console.developers.goog
 
 Rellenar los datos de configuración en Credenciales &gt; Pantalla de autorización de OAuth:![](/assets/paso7.png)En Credenciales &gt; Credenciales &gt; Crear credenciales, seleccionar “ID de cliente de OAuth”:![](/assets/paso8.png)En la siguiente pantalla, elegir tipo de aplicación Web e introducir los datos de nuestro Wordpress:![](/assets/paso9.png)Y ya tenemos las claves de conexión:
 
+![](/assets/paso10.png)
 
+Estas claves también las podemos consultar en:![](/assets/paso11.png)También tenemos que asegurarnos de activar la API de Google Drive:![](/assets/paso12.png)Y Habilitarla en la siguiente pantalla:![](/assets/paso13.png)
 
-Estas claves también las podemos consultar en:
+Y tendremos que rellenar los datos de ID de Cliente y de Secreto de Cliente en los ajustes del plugin Google Apps Login:![](/assets/paso14.png)
 
-También tenemos que asegurarnos de activar la API de Google Drive:
-
-Y Habilitarla en la siguiente pantalla:
-
-Y tendremos que rellenar los datos de ID de Cliente y de Secreto de Cliente en los ajustes del plugin Google Apps Login:
-
-¡Ya podemos ir a una entrada e incrustar un documento de Google Drive!
-
-
-
-
-
-
+**¡Ya podemos ir a una entrada e incrustar un documento de Google Drive!**
 
