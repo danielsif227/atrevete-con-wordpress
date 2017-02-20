@@ -21,7 +21,7 @@
   * [Redes sociales](redes-sociales.md)
   * [Shortcodes](shortcodes.md)
   * [Más funcionalidad con plugins](mas-funcionalidad-con-plugins.md)
-  * [Conectar Wordpress con Google Drive](conectar-wordpress-con-google-drive.md)
+  * [Wordpress y Google Drive](conectar-wordpress-con-google-drive.md)
   * [Google Analytics](google-analytics.md)
 * [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
