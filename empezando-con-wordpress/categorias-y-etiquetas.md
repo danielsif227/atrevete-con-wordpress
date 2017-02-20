@@ -6,6 +6,7 @@ Las Categorías y Etiquetas son útiles **para clasificar las Entradas**
 
 * Podemos construir Jerarquía de Categorías
 * Ejemplos: Dirección, Departamento Matemáticas, Departamento Lengua, etc.![](/assets/categorias.png)
+  ---
 
 #### ETIQUETAS
 
