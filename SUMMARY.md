@@ -1,11 +1,28 @@
 # Summary
 
 * [Introducción](README.md)
-* [Acerca de](chapter1.md)
-* [Empezando](empezando-con-wordpress.md)
-  * qqq
-* [CAPITULO 2](capitulo-2.md)
-* [Planificación](planificacion.md)
-
-## Entradas2
+  * [Acerca de Wordpress](acerca-de-wordpress.md)
+* [Empezando con Wordpress](empezando-con-wordpress.md)
+  * [Entradas](empezando-con-wordpress/entradas.md)
+  * [Páginas](empezando-con-wordpress/paginas.md)
+  * [Categorías y Etiquetas](empezando-con-wordpress/categorias-y-etiquetas.md)
+  * [Insertar imágenes](insertar-imagenes.md)
+  * [Menús](empezando-con-wordpress/menus.md)
+  * [Comentarios](comentarios.md)
+  * [Pingbacks](pingbacks.md)
+* [Configurando el Wordpress](configurando-el-wordpress.md)
+  * [Gestión de usuarios](configurando-el-wordpress/gestion-de-usuarios.md)
+  * [Temas](configurando-el-wordpress/temas.md)
+  * [Widgets](widgets.md)
+  * [Ejercicio práctico](ejercicios-practicos.md)
+* [Plugins](plugins.md)
+  * [Plugins de Wordpress de CATEDU](plugins/plugins-de-wordpress-de-catedu.md)
+  * [Jetpack](jetpack.md)
+  * [Redes sociales](redes-sociales.md)
+  * [Shortcodes](shortcodes.md)
+  * [Más funcionalidad con plugins](mas-funcionalidad-con-plugins.md)
+  * [Conectar Wordpress con Google Drive](conectar-wordpress-con-google-drive.md)
+  * [Google Analytics](google-analytics.md)
+* [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
+  * Temas hijos
 
