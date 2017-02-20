@@ -10,6 +10,8 @@
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios](comentarios.md)
   * [Pingbacks](pingbacks.md)
+* [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
+  * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 * [Configurando el Wordpress](configurando-el-wordpress.md)
   * [Gestión de usuarios](configurando-el-wordpress/gestion-de-usuarios.md)
   * [Widgets](widgets.md)
@@ -23,6 +25,4 @@
   * [Más funcionalidad con plugins](mas-funcionalidad-con-plugins.md)
   * [Wordpress y Google Drive](conectar-wordpress-con-google-drive.md)
   * [Google Analytics](google-analytics.md)
-* [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
-  * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 

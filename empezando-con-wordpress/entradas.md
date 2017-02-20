@@ -2,7 +2,7 @@
 
 En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" \(`Escritorio > Entradas > Añadir nueva`\)
 
-![](/assets/import.png)
+![](/assets/nueva_entrada.png)
 
 ---
 
