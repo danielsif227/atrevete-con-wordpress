@@ -49,7 +49,7 @@ Habrá que subir los 5 archivos al servidor.
 
 ![](/assets/Selección_026.png)
 
-![](/assets/Selección_035.png)
+![](/assets/Selección_034.png)
 
 ![](/assets/Selección_027.png)
 
