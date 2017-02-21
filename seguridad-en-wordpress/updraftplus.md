@@ -4,7 +4,7 @@ Una vez instalado y activado el plugin, su funcionalidad está accesible desde l
 
 #### Realizar un respaldo
 
-`UpdraftPlus > Estado actual / Respaldar ahora > botón `**`RESPALDAR AHORA`**
+`UpdraftPlus > Estado actual / Respaldar ahora > botónRESPALDAR AHORA`
 
 ![](/assets/realizar_respaldo.png)
 
@@ -15,15 +15,21 @@ El respaldo se guarda en el mismo servidor, lo cual tiene desventajas:
 
 Habrá que **Descargar** el respaldo realizado a nuestro PC.
 
+---
+
 #### Descargar el respaldo:
 
 Se descargan 5 archivos diferentes: base de datos, plugins, temas, ficheros subidos y otros.
 
 ![](/assets/descargar_respaldo.png)
 
+---
+
 #### Borrar el respaldo del servidor:
 
 ![](/assets/borrar_respaldo.png)
+
+---
 
 #### Subir el respaldo desde nuestro PC al servidor:
 
@@ -31,9 +37,13 @@ Habrá que subir los 5 archivos al servidor.
 
 ![](/assets/subir_respaldo.png)
 
+---
+
 #### Restaurar respaldo:
 
 ![](/assets/restaurar_respaldo.png)
+
+---
 
 #### Para configurar que el respaldo se realice en otro alojamiento:
 
