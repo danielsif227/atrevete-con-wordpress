@@ -12,5 +12,5 @@ Las Páginas se crean igual que las Entradas. En el Escritorio de Wordpress, cre
 
 * Zona de padres: Ponle **contraseña**
 
-
+![](/assets/publicar.png)
 
