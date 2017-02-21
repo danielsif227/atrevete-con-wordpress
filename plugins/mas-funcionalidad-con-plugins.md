@@ -8,6 +8,8 @@
 
 ## Posicionamiento Web
 
+Se trata de que la web esté más accesible: que haya un mapa web, revisión de enlaces rotos, URL amigables, etc.
+
 * **All in One SEO Pack:** Muy completo
 * **Yoast SEO: **Muy conocido
 

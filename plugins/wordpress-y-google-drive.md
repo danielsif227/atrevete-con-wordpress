@@ -6,31 +6,13 @@ Google Apps Login + Google Drive Embedder: Con la combinación de estos plugins 
 
 ![](/assets/g_embedder_uso.png)
 
-#### Configuración de conexión de Wordpress con Google Drive
+#### Configuración
 
-Para poder usar Google Drive Embedder, hay que conectar Wordpress con Google API. Para ello hay que ir a la web de Google Analytics [https://analytics.google.com](https://analytics.google.com/) y crear una nueva cuenta desde la zona de ADMINISTRADOR:
+Es necesario instalar, activar y configurar el plugin **Google Apps Login**: En el `Wordpress > Escritorio > Ajustes > Google Apps Login`, necesitamos obtener un ID y un Secreto de cliente. 
 
-![](/assets/g_embedder_paso1.png)
+Para ello, hay que ir a la web de Gestión de Google API:  [https://console.developers.google.com/](https://console.developers.google.com/) y ahí crear un nuevo proyecto y ponerle nombre \(por ejemplo _Curso WP_\):
 
-Rellenamos los datos de la cuenta de Universal Analytics:
-
-![](/assets/g_embedder_paso2.png)
-
-Y podemos desactivar las opciones de Compartición de datos, haciendo clic en el botón de Obtener ID de seguimiento:
-
-![](/assets/g_embedder_paso3.png)
-
-En la Configuración de la propiedad, podremos obtener el Id de seguimiento de Universal Analytics:
-
-![](/assets/g_embedder_paso4.png)
-
-![](/assets/g_embedder_paso5.png)
-
-Este ID de seguimiento, es el que tendremos que poner en los plugins de Wordpress para que usen Google Analytics. Los resultados de estadísticas de acceso los podremos ver en la web de Google Analytics \(ejemplo de cómo ver los datos que recopila Google Analytics: [http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\](http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\)\).
-
-Hay que ir a la web de Gestión de Google API:  [https://console.developers.google.com/](https://console.developers.google.com/) y ahí crear un nuevo proyecto y ponerle nombre \(por ejemplo Curso WP\):
-
-![](/assets/paso6.png)
+![](/assets/google-api-proyecto.png)
 
 Rellenar los datos de configuración en Credenciales &gt; Pantalla de autorización de OAuth:
 

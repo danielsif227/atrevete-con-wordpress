@@ -43,29 +43,5 @@ Habrá que subir los 5 archivos al servidor.
 
 ![](/assets/restaurar_respaldo.png)
 
----
 
-#### Para configurar que el respaldo se realice en otro alojamiento:
-
-![](/assets/Selección_026.png)
-
-![](/assets/Selección_034.png)
-
-![](/assets/Selección_027.png)
-
-![](/assets/Selección_028.png)
-
-![](/assets/Selección_029.png)
-
-![](/assets/Selección_030.png)
-
-![](/assets/Selección_031.png)
-
-La copia de respaldo la tendremos **en el servidor**
-
-**Y en Dropbox &gt; Aplicaciones &gt; UpdraftPlus.Com**
-
-![](/assets/Selección_033.png)
-
-ver con file-manager si la copia está ocupando espacio... aunque se supone que debería haberse borrado!
 
