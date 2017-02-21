@@ -47,5 +47,27 @@ Habrá que subir los 5 archivos al servidor.
 
 #### Para configurar que el respaldo se realice en otro alojamiento:
 
+![](/assets/Selección_026.png)
+
+![](/assets/Selección_027.png)
+
+![](/assets/Selección_028.png)
+
+![](/assets/Selección_029.png)
+
+![](/assets/Selección_030.png)
+
+![](/assets/Selección_031.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
