@@ -26,6 +26,7 @@
 * [Seguridad en Wordpress](seguridad-en-wordpress.md)
   * [Copia de seguridad](seguridad-en-wordpress/copia-de-seguridad.md)
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
+  * [BackWPup](seguridad-en-wordpress/backwpup.md)
 * [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 
