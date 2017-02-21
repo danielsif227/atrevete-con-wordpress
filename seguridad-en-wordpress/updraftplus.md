@@ -49,6 +49,8 @@ Habrá que subir los 5 archivos al servidor.
 
 ![](/assets/Selección_026.png)
 
+![](/assets/Selección_035.png)
+
 ![](/assets/Selección_027.png)
 
 ![](/assets/Selección_028.png)
@@ -59,15 +61,9 @@ Habrá que subir los 5 archivos al servidor.
 
 ![](/assets/Selección_031.png)
 
+La copia de respaldo la tendremos **en el servidor**
 
+**Y en Dropbox &gt; Aplicaciones &gt; UpdraftPlus.Com**
 
-
-
-
-
-
-
-
-
-
+![](/assets/Selección_033.png)
 
