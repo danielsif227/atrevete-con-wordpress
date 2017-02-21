@@ -6,6 +6,11 @@
 * **Meta Slider:** Para poner unas imágenes que vayan rotando entre ellas.
 * **NextGen Gallery: **Permite crear galerías de imágenes y publicarlas en una Página.
 
+## Posicionamiento Web
+
+* **All in One SEO Pack:** Muy completo
+* **Yoast SEO: **Muy conocido
+
 ## Otros plugins, quizás menos interesantes, o no:
 
 * **bbPress: **Crear una página con un foro.
