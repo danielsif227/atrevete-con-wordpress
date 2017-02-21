@@ -67,3 +67,5 @@ La copia de respaldo la tendremos **en el servidor**
 
 ![](/assets/Selección_033.png)
 
+ver con file-manager si la copia está ocupando espacio... aunque se supone que debería haberse borrado!
+
