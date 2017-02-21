@@ -18,7 +18,9 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 
 **PRIMER TRUCO:** "Opciones de pantalla" para ver más opciones
 
-**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`![](/assets/editar_entrada.png)
+**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
+
+![](/assets/editar_entrada.png)
 
 ---
 
@@ -33,8 +35,4 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 **EJERCICIO:** Añade un enlace a otra web dentro del contenido de una entrada
 
 **INTERESANTE:** Botón "**Leer más**": es específico de Wordpress, sirve para mostrar sólo una parte de la entrada y que el lector tenga que darle clic en "leer más..." para terminar de leer toda la entrada
-
-
-
-
 
