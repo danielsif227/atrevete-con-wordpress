@@ -5,7 +5,7 @@
 * [Empezando con Wordpress](empezando-con-wordpress.md)
   * [Entradas](empezando-con-wordpress/entradas.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
-  * [Medios \(insertar imágenes en Entradas\)](medios.md)
+  * [Medios \(insertar imágenes en Entradas\)](empezando-con-wordpress/medios.md)
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios y Pingbacks](comentarios.md)
