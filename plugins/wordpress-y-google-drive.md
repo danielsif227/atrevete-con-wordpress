@@ -4,15 +4,13 @@
 
 Google Apps Login + Google Drive Embedder: Con la combinación de estos plugins se podrá añadir archivos de Google Drive embebidos en las entradas del Wordpress:
 
-![](/assets/Selección_001.png)
+![](/assets/g_embedder_uso.png)
 
 #### Configuración de conexión de Wordpress con Google Drive
 
 Para poder usar Google Drive Embedder, hay que conectar Wordpress con Google API. Para ello hay que ir a la web de Google Analytics [https://analytics.google.com](https://analytics.google.com/) y crear una nueva cuenta desde la zona de ADMINISTRADOR:
 
-![](/assets/paso1.png)
-
-![](/assets/paso1.png)
+![](/assets/g_embedder_paso1.png)
 
 Rellenamos los datos de la cuenta de Universal Analytics:
 
@@ -66,7 +64,7 @@ Y Habilitarla en la siguiente pantalla:
 
 Y tendremos que rellenar los datos de ID de Cliente y de Secreto de Cliente en los ajustes del plugin Google Apps Login:
 
- ![](/assets/paso14.png)
+![](/assets/paso14.png)
 
 **¡Ya podemos ir a una entrada e incrustar un documento de Google Drive!**
 
