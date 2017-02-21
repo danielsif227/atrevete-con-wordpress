@@ -9,7 +9,7 @@
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
-  * [Gestión de usuarios](configurando-el-wordpress/usuarios.md)
+  * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
   * [Temas](configurando-el-wordpress/temas.md)
   * [Widgets](empezando-con-wordpress/widgets.md)
   * [Imagen lateral con enlace](empezando-con-wordpress/imagen-lateral.md)
