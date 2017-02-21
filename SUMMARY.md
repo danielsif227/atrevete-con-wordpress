@@ -22,7 +22,7 @@
   * [Más funcionalidad con plugins](mas-funcionalidad-con-plugins.md)
   * [Restringir zona de publicación a usuarios](plugins/restringir-zona-de-publicacion-a-usuarios.md)
   * [Google Analytics](google-analytics.md)
-  * [Wordpress y Google Drive](conectar-wordpress-con-google-drive.md)
+  * [Wordpress y Google Drive](wordpress-y-google-drive.md)
 * [Seguridad en Wordpress](seguridad-en-wordpress.md)
 * [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
