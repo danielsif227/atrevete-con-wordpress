@@ -10,17 +10,16 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 
 ## Opciones de edición de la entrada
 
-* Editor visual o editor HTML
-* Estado / Visibilidad / Publicación
+* Editor Visual o editor HTML
 * Extracto
-* Imagen destacada \(mejor imagen horizontal\)
+* Imagen destacada \(mejor usar imagen en horizontal\) ¡interesante!, aparecerá una imagen en la parte superior de la entrada
 * ¡Visualicemos la entrada! atención al ID de página y al Slug
 
 **PRIMER TRUCO:** "Opciones de pantalla" para ver más opciones
 
-**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
+![](/assets/editar_entrada_blog.png)
 
-![](/assets/editar_entrada.png)
+**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
 
 ---
 
