@@ -1,8 +1,8 @@
 # Summary
 
 * [Introducción](README.md)
-  * [Acerca de Wordpress](acerca-de-wordpress.md)
 * [Empezando con Wordpress](empezando-con-wordpress.md)
+  * [Acerca de Wordpress](empezando-con-wordpress/acerca-de-wordpress.md)
   * [Entradas](empezando-con-wordpress/entradas.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
