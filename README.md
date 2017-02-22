@@ -1,4 +1,4 @@
-# Aprendamos Wordpress. Una visión general de lo básico a lo avanzado.
+# Aprendamos a administrar un Wordpress. Una visión general de lo básico a lo avanzado.
 
 Daniel Pons Betrián \(dpons en educa aragon es\)
 
