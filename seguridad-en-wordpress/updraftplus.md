@@ -4,7 +4,7 @@ Una vez instalado y activado el plugin, su funcionalidad está accesible desde l
 
 #### Realizar un respaldo
 
-`UpdraftPlus > Estado actual / Respaldar ahora > botónRESPALDAR AHORA`
+`UpdraftPlus > Estado actual / Respaldar ahora > botón RESPALDAR AHORA`
 
 ![](/assets/realizar_respaldo.png)
 
@@ -42,6 +42,4 @@ Habrá que subir los 5 archivos al servidor.
 #### Restaurar respaldo:
 
 ![](/assets/restaurar_respaldo.png)
-
-
 

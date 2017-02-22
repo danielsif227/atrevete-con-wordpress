@@ -1,6 +1,6 @@
 ## All In One WP Security
 
-Permite habilitar numerosas medidas de seguridad \(algunas ya están en Wordfence\) para nuestro Wordpress. Se configura en `Listado de Plugins > All In One WP Security > Settings`. Indica el grado de protección configurado a modo de cuentakm.
+Permite habilitar numerosas medidas de seguridad \(algunas ya están en Wordfence\) para nuestro Wordpress. Se configura en `Listado de Plugins > All In One WP Security > Settings`. Este plugin indica el grado de protección que tenemos con un gráfico en forma de cuentakilómetros.
 
 * Opciones &gt; WP Version Info: Eliminar generador WP Meta Info: SI
 * Cuentas de usuario &gt; Mostrar nombre: Revisa que los Nombres de usuario estén ocultos y se muestre el alias
@@ -8,7 +8,7 @@ Permite habilitar numerosas medidas de seguridad \(algunas ya están en Wordfenc
 * Ingreso de usuarios &gt; Cerrar inicio de sesión: múltiples opciones
 * Ingreso de usuarios &gt; Forzar salir &gt; Habilitar el cierre de sesión de usuario de Fuerza WP: si
 * Ingreso de usuarios &gt; Mostrar mensaje de error genérico: SI
-* Seguridad del sistema de archivos: Deshabilitar "Edición archivo PHP", 
+* Seguridad del sistema de archivos: Deshabilitar "Edición archivo PHP".
 * Seguridad del sistema de archivos &gt; WP acceso archivo &gt; Impedir el Acceso a Archivos de Instalación Predeterminada de WP: si
 * Cortafuegos &gt; Reglas basicas de Cortafuegos &gt; Habilitar proteccion basica de Firewall: SI
 * Cortafuegos &gt; Reglas basicas de Cortafuegos &gt; Bloquear el Acceso al Archivo debug.log : SI

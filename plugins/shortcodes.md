@@ -4,5 +4,7 @@ Los shortcodes consisten en incluiren una Página o Entrada un código entre cor
 
 **Shortcodes Ultimate: **plugin que permite añadir contenidos en pestañas, botones, efectos de acordeón, texto en columnas, etc. mediante shortcodes
 
-**AMR Shortcode any Widget:** plugin para poner cualquier widget en el contenido de la página. **EJERCICIO: **Poner el widget "nube de etiquetas" en el contenido de una Entrada.
+**AMR Shortcode any Widget:** plugin para poner cualquier widget en el contenido de la página. 
+
+**EJERCICIO: **Poner el widget "nube de etiquetas" en el contenido de una Entrada utilizando AMR Shortconde any Widget.
 
