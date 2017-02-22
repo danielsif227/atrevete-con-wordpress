@@ -6,7 +6,7 @@ Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema 
 
 **IMPORTANTE:** instalar temas desde dentro del Wordpress, utilizando el Repositorio oficial de wordpress.org. Algunos posibles temas visuales:
 
-* Lovecraft, GeneratePress, Customizr, Sketchpad, Clean retina, Oxygen, Panoramic, Evolve, etc.
+* GeneratePress, Customizr, Sketchpad, Clean retina, Oxygen, Panoramic, Evolve, etc.
 * Más listados de temas:
   * [https://www.lancetalent.com/blog/themes-wordpress-gratis/](https://www.lancetalent.com/blog/themes-wordpress-gratis/)
   * [https://www.lomejordewp.com/mejores-plantillas-temas-wordpress-gratis/](https://www.lomejordewp.com/mejores-plantillas-temas-wordpress-gratis/)
