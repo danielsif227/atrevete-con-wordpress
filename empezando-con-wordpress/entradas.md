@@ -21,6 +21,8 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 
 **OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
 
+**OTRO TRUCO:** El botón "leer más"  ![](/assets/leer-mas.png) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más..."
+
 ---
 
 ## Editando contenidos
