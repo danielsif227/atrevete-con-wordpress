@@ -21,13 +21,23 @@ Hay que tener **copia de seguridad de todo**. _Si de algo no tienes copia de seg
 
 Existen listados de vulnerabilidades conocidas de Wordpress, Plugins y Temas: [https://wpvulndb.com/](https://wpvulndb.com/)
 
-* **Wordfence**: es un plugin completo: Coortafuegos y Limpieza 
-* **Captcha by Bestwebsoft**: solicita que se introduzca letras o números, interacción con el usuario, para evitar múltiples intentos de acceso automáticos. Tiene opción de bloqueo de acceso ante errores de login, lo mismo que en Wordfence: Se pueden tener las dos en paralelo, y se aplicará el bloqueo que se dé en primer caso. 
+* **Wordfence**: es un plugin completo: Escanea y Cortafuegos
+* **Captcha by Bestwebsoft**: Añade un captcha en la página de login: un captcha solicita que se introduzca letras o números, con interacción con el usuario, para evitar múltiples intentos de acceso automáticos. Tiene opción de bloqueo de acceso ante errores de login, lo mismo que en Wordfence: Se pueden tener las dos en paralelo, y se aplicará el bloqueo que se dé en primer caso. 
 * **Anti-Malware Security and Brute-Force Firewall**: Escaneo sencillo pero efectivo para detectar hackeos en el Wordpress
 * **Plugin Security Scanner:** para revisar vulnerabilidades en tus otros plugins
-* **All In One WP Security**: completo plugin de seguridad
+* **All In One WP Security**: completo plugin de seguridad. Tiene algunas funcionalidades repetidas con Wordfence.
 
-  ---
+---
+
+## Lo esencial
+
+* No tener un usuario llamado **admin** ni un usuario llamado igual que nuestro Wordpress. Ocultar los nombres de los usuarios haciendo que cada usuario tenga un "alias" para mostrar diferente de su "nombre de usuario", lo cual se configura en el perfil de cada usuario.
+* Mantener Wordpress, plugins y temas **actualizados**.
+* Instalar y configurar **Wordfence**, para realizar escaneos de posibles ataques \(actúa como medida de detección y limpieza de malware\) y para bloquear conexiones detectadas como maliciosas \(actúa como firewall\). También sería recomendable instalar y configurar All in One WP Security.
+* Poner un **captcha** para la página de login \(por ejemplo Captcha by Bestwebsoft\)
+* Realizar **copias de seguridad** del Wordpress con UpdraftPlus y guardarlas por ejemplo en Dropbox
+
+---
 
 ## Recuperar un Wordpress hackeado \(requiere acceso al alojamiento web\)
 
