@@ -3,10 +3,10 @@
 ## Módulo 1. ¡Empezando!
 
 * [Introducción](README.md)
-* [Empezando con Wordpress](empezando-con-wordpress.md)
-  * [Acerca de Wordpress](empezando-con-wordpress/acerca-de-wordpress.md)
-  * [Entradas](empezando-con-wordpress/entradas.md)
-  * [Páginas](empezando-con-wordpress/paginas.md)
+  * [Qué es Wordpress](que-es-wordpress.md)
+  * [Tipos de Wordpress](tipos-de-wordpress.md)
+  * [Nomenclatura](nomenclatura.md)
+* [Puesta en marcha](empezando-con-wordpress.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
@@ -16,6 +16,10 @@
   * [Widgets](empezando-con-wordpress/widgets.md)
   * [Imagen lateral con enlace](empezando-con-wordpress/imagen-lateral.md)
   * [Configurando el Wordpress](empezando-con-wordpress/configurando-wordpress.md)
+* Lo esencial
+  * [Entradas](entradas.md)
+* [Páginas](empezando-con-wordpress/paginas.md)
+* Más opciones
 
 ## Módulo 2. Plugins
 
