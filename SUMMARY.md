@@ -7,19 +7,19 @@
   * [Tipos de Wordpress](tipos-de-wordpress.md)
   * [Nomenclatura](nomenclatura.md)
 * [Puesta en marcha](empezando-con-wordpress.md)
-  * [Medios e imágenes](empezando-con-wordpress/medios.md)
-  * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
-  * [Menús](empezando-con-wordpress/menus.md)
-  * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
-  * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
-  * [Temas](empezando-con-wordpress/temas.md)
   * [Widgets](empezando-con-wordpress/widgets.md)
   * [Imagen lateral con enlace](empezando-con-wordpress/imagen-lateral.md)
   * [Configurando el Wordpress](empezando-con-wordpress/configurando-wordpress.md)
 * Lo esencial
   * [Entradas](entradas.md)
-* [Páginas](empezando-con-wordpress/paginas.md)
-* Más opciones
+  * [Páginas](empezando-con-wordpress/paginas.md)
+  * [Medios e imágenes](empezando-con-wordpress/medios.md)
+  * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
+  * [Menús](empezando-con-wordpress/menus.md)
+  * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
+* [Más opciones](mas-opciones.md)
+* [Temas](empezando-con-wordpress/temas.md)
+* [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
 
 ## Módulo 2. Plugins
 
