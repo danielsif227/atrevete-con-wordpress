@@ -14,11 +14,11 @@
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
-* [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
-* [Temas](empezando-con-wordpress/temas.md)
-* [Widgets](empezando-con-wordpress/widgets.md)
-* [Configurando el Wordpress](empezando-con-wordpress/configurando-wordpress.md)
 * [Más opciones](mas-opciones.md)
+  * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
+  * [Temas](empezando-con-wordpress/temas.md)
+  * [Widgets](empezando-con-wordpress/widgets.md)
+  * [Configuración general](empezando-con-wordpress/configurando-wordpress.md)
   * [Ejercicio: imagen lateral con enlace](mas-opciones/ejercicio-imagen-lateral-con-enlace.md)
 
 ## Módulo 2. Plugins
