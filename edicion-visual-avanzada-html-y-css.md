@@ -1,4 +1,4 @@
-## HTML y CSS
+## Ampliación con HTML y CSS
 
 **Estos contenidos son totalmente opcionales y voluntarios, ya que implican conocer lenguaje HTML y CSS, lo cual excede de los objetivos, propósitos y temporalización del curso, además de suponer un nivel adicional de dificultad.**
 

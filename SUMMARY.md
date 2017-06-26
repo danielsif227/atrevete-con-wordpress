@@ -1,6 +1,6 @@
 # Summary
 
-## Módulo 1.
+## Módulo 1. ¡Empezando!
 
 * [Introducción](README.md)
 * [Empezando con Wordpress](empezando-con-wordpress.md)
@@ -29,7 +29,7 @@
   * [Google Analytics](plugins/google-analytics.md)
   * [Wordpress y Google Drive](plugins/wordpress-y-google-drive.md)
 
-## Módulo 3. Seguridad en Wordpress
+## Módulo 3. Seguridad
 
 * [Seguridad en Wordpress](seguridad-en-wordpress.md)
   * [Wordfence](seguridad-en-wordpress/wordfence.md)
@@ -38,8 +38,14 @@
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
   * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
   * [BackWPup](seguridad-en-wordpress/backwpup.md)
+
+## Módulo 4. Ampliación con HTML y CSS
+
 * [Edición visual avanzada con HTML y CSS](edicion-visual-avanzada-html-y-css.md)
   * [Añadir CSS en el Tema](edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
+
+## Módulo 5. Referencias
+
 * [Referencias](referencias.md)
 
