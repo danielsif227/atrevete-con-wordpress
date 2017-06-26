@@ -1,6 +1,8 @@
-Punto de partida: el tema **GeneratePress **admite que se le añada CSS adicional para modificar su apariencia por defecto. lo cual se puede hacer en `Escritorio > Apariencia > Editar CSS`
+## Añadir CSS en un tema de Wordpress
 
-**Ejemplo práctico: **queremos reducir la altura de la barra de menú de 60px a 40px
+Se tomará como punto de partida un Wordpress con el tema activo **GeneratePress**, el cual admite que se le añada CSS adicional para modificar su apariencia por defecto. lo cual se puede hacer en `Escritorio > Apariencia > Editar CSS`
+
+**Ejemplo práctico: **queremos reducir la altura de la barra de menú de 60px a 40px. Para ello primero encontraremos qué CSS es el que necesitamos para realizar dicho cambio utilizando las opciones de edición de CSS que proporcionan los navegadores, y segundo añadiremos el CSS en las opciones de añadir CSS adicional en el tema. 
 
 #### 1º Cambiar en vivo el CSS en el navegador
 
@@ -12,9 +14,7 @@ Clic en la flecha en círculo negro para ir en la pestaña Styles donde esté de
 
 ![](/assets/modificar-css-2.png)
 
-Modificar el valor de CSS en vivo y ver el efecto:
-
-![](/assets/modificar-css-3.png)
+Modificar el valor de CSS en vivo y ver el efecto:![](/assets/modificar-css-3.png)
 
 Copiar el CSS que necesitamos:
 
@@ -28,5 +28,5 @@ Y ahí se añade lo que se ha modificado "en vivo" en el navegador, pero sólo d
 
 ![](/assets/generatepress-css-modificado.png)
 
-
+Una vez que se guarden los cambios, la barra de menú tendrá su altura reducida de 60px a 40px. 
 

@@ -28,6 +28,9 @@
   * [Restringir zona de publicación a usuarios](plugins/restringir-zona-de-publicacion-a-usuarios.md)
   * [Google Analytics](plugins/google-analytics.md)
   * [Wordpress y Google Drive](plugins/wordpress-y-google-drive.md)
+
+## Módulo 3. Seguridad en Wordpress
+
 * [Seguridad en Wordpress](seguridad-en-wordpress.md)
   * [Wordfence](seguridad-en-wordpress/wordfence.md)
   * [All In One WP Security](seguridad-en-wordpress/all-in-one-wp-security.md)
@@ -35,7 +38,7 @@
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
   * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
   * [BackWPup](seguridad-en-wordpress/backwpup.md)
-* [Edición visual avanzada HTML y CSS](edicion-visual-avanzada-html-y-css.md)
+* [Edición visual avanzada con HTML y CSS](edicion-visual-avanzada-html-y-css.md)
   * [Añadir CSS en el Tema](edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 * [Referencias](referencias.md)
