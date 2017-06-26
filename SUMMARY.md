@@ -1,5 +1,7 @@
 # Summary
 
+## Módulo 1.
+
 * [Introducción](README.md)
 * [Empezando con Wordpress](empezando-con-wordpress.md)
   * [Acerca de Wordpress](empezando-con-wordpress/acerca-de-wordpress.md)
@@ -14,6 +16,9 @@
   * [Widgets](empezando-con-wordpress/widgets.md)
   * [Imagen lateral con enlace](empezando-con-wordpress/imagen-lateral.md)
   * [Configurando el Wordpress](empezando-con-wordpress/configurando-wordpress.md)
+
+## Módulo 2. Plugins
+
 * [Plugins](plugins.md)
   * [Plugins de Wordpress de CATEDU](plugins/plugins-de-wordpress-de-catedu.md)
   * [Jetpack](plugins/jetpack.md)
