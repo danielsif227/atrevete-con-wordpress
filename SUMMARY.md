@@ -49,7 +49,8 @@
   * [Añadir CSS en el Tema](edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 
-## Módulo 5. Referencias
+## Módulo 5. Anexos
 
 * [Referencias](referencias.md)
+* [Licencia](licencia.md)
 
