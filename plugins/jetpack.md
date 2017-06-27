@@ -14,5 +14,5 @@ HOLA![](/assets/insertar_imagen.png)reerte
 
 ![](/assets/insertar_imagen.png)
 
-HOLA {% include %}
+HOLA
 
