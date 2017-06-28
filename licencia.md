@@ -4,7 +4,9 @@
 
 Este obra está bajo una [licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Daniel Pons Betrián \(dpons en educa aragon es\)
+Propietario: Departameto de Educación , Cultura y Deporte \(Gobierno de Aragón\)
+
+Autor: Daniel Pons Betrián \(dpons en educa aragon es\)
 
 Junio 2017
 
