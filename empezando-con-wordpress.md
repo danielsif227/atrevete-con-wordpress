@@ -7,9 +7,9 @@ Este curso aborda desde los inicios de manejo de un Wordpress hasta la utilizaci
 
 #### ¿DISPONES DE UN WORDPRESS DE CATEDU?
 
-Si dispones de un Wordpress de profesor ofrecido por Catedu para la red de profesores de Aragón \(en [http://wp.catedu.es](http://wp.catedu.es%29%29, podrás realizar un seguimiento bastante amplio del curso %28aunque no completo ya que no tendrás posibilidad de instalar o desinstalar plugins y temas\)\) podrás realizar un seguimiento casi completo del curso porque los Wordpress de Catedu para profesorado disponen de casi todos los plugins tratados en este curso.
+Si dispones de un Wordpress de profesor ofrecido por Catedu para la red de profesores de Aragón \(en [http://wp.catedu.es](http://wp.catedu.es%29%29, podrás realizar un seguimiento bastante amplio del curso %28aunque no completo ya que no tendrás posibilidad de instalar o desinstalar plugins y temas%29\) podrás realizar un seguimiento casi completo del curso porque los Wordpress de Catedu para profesorado disponen de casi todos los plugins tratados en este curso.
 
 Si eres el administrador de un Wordpress institucional \(de centro educativo\) proporcionado por Catedu, podrás realizar un seguimiento completo del curso. Importante destacar que Catedu únicamente ofrece un Wordpress de este tipo a los centros educativos de la red formativa de Aragón.
 
-
+{}
 
