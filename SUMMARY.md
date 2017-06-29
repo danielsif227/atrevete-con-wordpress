@@ -18,11 +18,10 @@
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
 * [Más opciones](mas-opciones.md)
-  * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
   * [Temas](empezando-con-wordpress/temas.md)
   * [Widgets](empezando-con-wordpress/widgets.md)
+  * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
   * [Configuración general](empezando-con-wordpress/configurando-wordpress.md)
-  * [Ejercicio: imagen lateral con enlace](mas-opciones/ejercicio-imagen-lateral-con-enlace.md)
 
 ## Módulo 3. Seguridad
 
