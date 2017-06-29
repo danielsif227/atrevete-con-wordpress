@@ -1,6 +1,6 @@
 # Más configuraciones
 
-Es posible entrar en distintas zonas de la Administración del Wordpress:
+Es posible entrar en distintas zonas de la configuración del Wordpress:
 
 #### PERSONALIZAR
 
