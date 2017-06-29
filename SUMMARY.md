@@ -3,14 +3,14 @@
 ## Módulo 1. ¡Empezando!
 
 * [Introducción](README.md)
-  * [Objetivos](objetivos.md)
-  * [Qué es Wordpress](que-es-wordpress.md)
   * [Tipos de Wordpress](tipos-de-wordpress.md)
+  * [Qué es Wordpress](que-es-wordpress.md)
+  * [Objetivos](objetivos.md)
   * [Nomenclatura](nomenclatura.md)
-* [Puesta en marcha](empezando-con-wordpress.md)
+  * [Puesta en marcha](empezando-con-wordpress.md)
 * [Lo esencial](lo-esencial.md)
-  * [Entradas](entradas.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
+  * [Entradas](entradas.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
