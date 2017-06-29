@@ -1,8 +1,8 @@
 ## Google Analytics
 
-¡No usar contadores de visitas! porque incluyen propaganda y popups no deseados
+¡No usar contadores de visitas! porque incluyen propaganda y popups no deseados que distorsionarán el Wordpress.
 
-Para analizar los accesos al Wordpress: lo mejor es usar Google Analytics:
+Para analizar los accesos al Wordpress, lo mejor es usar Google Analytics:
 
 * Hay que ir a [https://analytics.google.com](https://analytics.google.com) y crear un código UA.
 * **Google Analytics Dashboard for WP: **es un plugin que se conecta automáticamente con tu cuenta de GMail y obtiene el UA \(Ej: UA-1234567-8\)
@@ -29,5 +29,5 @@ En la Configuración de la propiedad, podremos obtener el Id de seguimiento de U
 
 ![](/assets/g_embedder_paso5.png)
 
-Este ID de seguimiento, es el que tendremos que poner en los plugins de Wordpress para que usen Google Analytics. Los resultados de estadísticas de acceso los podremos ver en la web de Google Analytics \(ejemplo de cómo ver los datos que recopila Google Analytics: [http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\](http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\)\).
+Este ID de seguimiento, es el que tendremos que poner en los plugins de Wordpress para que usen Google Analytics. Los resultados de estadísticas de acceso los podremos ver en la web de Google Analytics \(ejemplo de cómo ver los datos que recopila Google Analytics: [http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html\](http://www.webempresa20.com/blog/tutorial-google-analytics-guia-seis-pasos-medir-social-media.html%29\).
 

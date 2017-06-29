@@ -1,12 +1,12 @@
 ## Plugins para redes sociales
 
-**Simple Share Buttons Adder: **Añadir botones para compartir entradas en facebook, twitter, etc.
+**Simple Share Buttons Adder: **ASirve para añadir botones para compartir entradas en facebook, twitter, etc.
 
-**bbPress: **Convierte WP en un foro
+**bbPress: **Convierte un Wordpress en un foro.
 
-JETPACK: Tiene el plugin "**Difundir**" para publicar directamente en redes sociales.
+El plugin JETPACK tiene el plugin "**Difundir**" que sirve para publicar directamente entradas en redes sociales.
 
-**EJERCICIO:** Insertar a modo de botón la imagen de suscripción RSS como un enlace en un WIDGET LATERAL. La imagen es esta: [http://www.freepik.com/free-photo/logo-icon-symbol-rss-rss-feed-drawing-clipart\\_670661.htm](http://www.freepik.com/free-photo/logo-icon-symbol-rss-rss-feed-drawing-clipart\_670661.htm) y hay que poner como enlace tu dirección de feeds \([http://cursoblog.catedu.es/feed\](http://cursoblog.catedu.es/feed\)\). Si usamos Graphene \(u otros temas\), ya incluyen este botón.
+**EJERCICIO:** Insertar a modo de botón la imagen de suscripción RSS como un enlace en un Widget en una barra lateral. La imagen es esta: [http://www.freepik.com/free-photo/logo-icon-symbol-rss-rss-feed-drawing-clipart\\_670661.htm](http://www.freepik.com/free-photo/logo-icon-symbol-rss-rss-feed-drawing-clipart_670661.htm) y hay que poner como enlace tu dirección de feeds \([http://cursoblog.catedu.es/feed](http://cursoblog.catedu.es/feed%29%29. Si usamos Graphene %28u otros temas\)\).
 
 Más info buscando en Internet: [https://raiolanetworks.es/blog/que-es-jetpack-para-wordpress-guia-completa/](https://raiolanetworks.es/blog/que-es-jetpack-para-wordpress-guia-completa/)
 

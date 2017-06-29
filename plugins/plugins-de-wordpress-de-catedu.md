@@ -1,6 +1,6 @@
 ## Plugins en WP de CATEDU
 
-Una instalación de Wordpress para un centro educativo en CATEDU viene preinstalada con los siguientes plugins:
+Una instalación de Wordpress para un centro educativo en CATEDU viene preinstalada con los siguientes plugins \(Es posible que esta lista varíe frecuentemente\):
 
 * Akismet \(desactivado\): Plugin que se encarga de controlar el spam de los comentarios. Hay que configurarlo y activarlo. Para ello, tendréis que seguir los pasos y crear una cuenta gratuita en Akismet.
 * Antivirus: Es bueno dejar activo este plugin para evitar en la medida de lo posible malware, inyección de código, etc.
