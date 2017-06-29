@@ -42,6 +42,7 @@
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
   * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
   * [BackWPup](seguridad-en-wordpress/backwpup.md)
+* [Actualizar Wordpress](actualizar-wordpress.md)
 
 ## Módulo 4. Ampliación con HTML y CSS
 
