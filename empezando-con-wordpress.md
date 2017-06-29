@@ -11,5 +11,5 @@ Si dispones de un Wordpress de profesor ofrecido por Catedu para la red de profe
 
 Si eres el administrador de un Wordpress institucional \(de centro educativo\) proporcionado por Catedu, podrás realizar un seguimiento completo del curso. Importante destacar que Catedu únicamente ofrece un Wordpress de este tipo a los centros educativos de la red formativa de Aragón.
 
-{}
+{% %}
 
