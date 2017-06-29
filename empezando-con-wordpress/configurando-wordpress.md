@@ -1,4 +1,4 @@
-# Configuración general
+# Más configuraciones
 
 Es posible entrar en distintas zonas de la Administración del Wordpress:
 

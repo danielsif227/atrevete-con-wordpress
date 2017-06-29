@@ -4,7 +4,7 @@
 
 Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema tiene una distribución y unos colores propios.
 
-**IMPORTANTE:** instalar temas desde dentro del Wordpress, utilizando el Repositorio oficial de wordpress.org. Algunos posibles temas visuales:
+**IMPORTANTE:** Sólo instalar temas desde dentro del Wordpress, utilizando el Repositorio oficial de wordpress.org. Algunos posibles temas visuales:
 
 * GeneratePress, Customizr, Sketchpad, Clean retina, Oxygen, Panoramic, Evolve, etc.
 * Más listados de temas:
