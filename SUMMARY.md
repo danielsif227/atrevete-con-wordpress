@@ -3,6 +3,7 @@
 ## Módulo 1. ¡Empezando!
 
 * [Introducción](README.md)
+  * [Objetivos](objetivos.md)
   * [Qué es Wordpress](que-es-wordpress.md)
   * [Tipos de Wordpress](tipos-de-wordpress.md)
   * [Nomenclatura](nomenclatura.md)
