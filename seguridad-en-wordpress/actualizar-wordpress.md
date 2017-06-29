@@ -6,13 +6,17 @@ La medida de seguridad más esencial a realizar es mantener el Wordpress actuali
 
 En la siguiente página podrás actualizar Wordpress con un sólo clic en el botón azul "Actualizar ahora":
 
-
+![](/assets/actualizar-wp.png)
 
 También habrá que actualizar:
 
 * Plugins
 * Temas
 * Traducciones
+
+![](/assets/actualizar-plugin.png)![](/assets/actualizar-temas.png)
+
+![](/assets/actualizar-traducciones.png)
 
 
 
