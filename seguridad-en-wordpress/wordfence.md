@@ -1,6 +1,6 @@
 ## Escanear el Wordpress
 
-1º Wordfene compara lo que tenemos en nuestro servidor con los repositorios oficiales. Por ello, primero requiere que tengamos todo actualizado.
+1º **Wordfence **compara lo que tenemos en nuestro servidor con los repositorios oficiales. **Por ello, primero requiere que tengamos todo actualizado.**
 
 2º Hay que configurar las opciones de escaneo en `Wordfence Scan Options > Options`Hay que activar casi todas las opciones para un escaneo más profundo, revisando estas opciones:
 
@@ -8,8 +8,8 @@
 * Scan plugin files against repository versions for changes: Activar
 * Scan files outside your WordPress installation: Probar a activarlo porque realiza una búsqueda más profunda, pero si se activa, puede que el escaneo tarde muchísimo o que no termine nunca porque entre en un bucle.
 * Scan images, binary, and other files as if they were executable: Ralentiza mucho pero puede llegar a ser útil en algún ataque muy concreto.
-* Enable HIGH SENSITIVITY scanning \(may give false positives\): Escaneo muy sensible, puede que dé muchos falsos positivos.
-* Use low resource scanning \(reduces server load by lengthening the scan duration\): Más tiempo para escanear para no sobrecargar el servidor
+* Enable HIGH SENSITIVITY scanning \(may give false positives\): Habilita un escaneo muy sensible, si se activa puede que dé muchos falsos positivos.
+* Use low resource scanning \(reduces server load by lengthening the scan duration\): Requerirá más tiempo para escanear con objeto de no sobrecargar el servidor
 
 3º Se lanza con la opción SCAN:
 
@@ -51,6 +51,7 @@ Wordfence permite limitar el tráfico de datos que se genera para evitar sobreca
 * **Block =** bloquear acceso definitivamente. Poner block si tienes problemas con mucho tráfico de robots
 
 * Immediately block fake Google crawlers: Activar
+
 * How should we treat Google's crawlers: Treat Google like any other Crawler
 * If anyone's requests exceed: 240 - throttle
 * If a crawler's page views exceed: 240 - throttle
