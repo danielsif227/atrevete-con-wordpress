@@ -8,6 +8,7 @@
   * [Objetivos](objetivos.md)
   * [Nomenclatura](nomenclatura.md)
 * [Puesta en marcha](empezando-con-wordpress.md)
+  * [Crear Wordpress en wordpress.com](empezando-con-wordpress/crear-wordpress-en-wordpresscom.md)
 * [Lo esencial](lo-esencial.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
   * [Entradas](entradas.md)
