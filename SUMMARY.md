@@ -11,8 +11,8 @@
   * [Crear Wordpress en wordpress.com](empezando-con-wordpress/crear-wordpress-en-wordpresscom.md)
   * [Instalar Wordpress en un alojamiento web](empezando-con-wordpress/crear-wordpress-en-un-alojamiento-web.md)
 * [Lo esencial](lo-esencial.md)
-  * [Páginas](empezando-con-wordpress/paginas.md)
   * [Entradas](entradas.md)
+  * [Páginas](empezando-con-wordpress/paginas.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
   * [Menús](empezando-con-wordpress/menus.md)
@@ -23,6 +23,17 @@
   * [Widgets](empezando-con-wordpress/widgets.md)
   * [Configuración general](empezando-con-wordpress/configurando-wordpress.md)
   * [Ejercicio: imagen lateral con enlace](mas-opciones/ejercicio-imagen-lateral-con-enlace.md)
+
+## Módulo 3. Seguridad
+
+* [Seguridad en Wordpress](seguridad-en-wordpress.md)
+  * [Actualizar Wordpress](seguridad-en-wordpress/actualizar-wordpress.md)
+  * [Wordfence](seguridad-en-wordpress/wordfence.md)
+  * [All In One WP Security](seguridad-en-wordpress/all-in-one-wp-security.md)
+  * [Copia de seguridad](seguridad-en-wordpress/copia-de-seguridad.md)
+  * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
+  * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
+  * [BackWPup](seguridad-en-wordpress/backwpup.md)
 
 ## Módulo 2. Plugins
 
@@ -35,17 +46,6 @@
   * [Restringir zona de publicación a usuarios](plugins/restringir-zona-de-publicacion-a-usuarios.md)
   * [Google Analytics](plugins/google-analytics.md)
   * [Wordpress y Google Drive](plugins/wordpress-y-google-drive.md)
-
-## Módulo 3. Seguridad
-
-* [Seguridad en Wordpress](seguridad-en-wordpress.md)
-  * [Actualizar Wordpress](seguridad-en-wordpress/actualizar-wordpress.md)
-  * [Wordfence](seguridad-en-wordpress/wordfence.md)
-  * [All In One WP Security](seguridad-en-wordpress/all-in-one-wp-security.md)
-  * [Copia de seguridad](seguridad-en-wordpress/copia-de-seguridad.md)
-  * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
-  * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
-  * [BackWPup](seguridad-en-wordpress/backwpup.md)
 
 ## Módulo 4. Ampliación con HTML y CSS
 

@@ -8,11 +8,11 @@ En la biblioteca de Medios podremos subir documentos e imágenes al sitio web Wo
 
 Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opciones para hacerlo:
 
-* Copiar URL de una imagen y pegarla en el contenido de la página \(la imagen queda enlazada con código HTML pero no estará en nuestra bibioteca de Medios\)
+* Copiar URL de una imagen y pegarla en el contenido de la página \(la imagen queda enlazada con código HTML pero no estará en nuestra bibioteca de Medios\).
 * Utilización de la Biblioteca de **Medios: **Podremos subir imágenes a la biblioteca de Medios de nuestro Wordpress a través del botón "Añadir objeto".
-* **MEJOR OPCION: **Uso del plugin One Press Image Elevator: al copiar y pegar una imagen se sube directamente a nuestra biblioteca de Medios y se inserta en el contenido de la Entrada
+* **MEJOR OPCION: **Uso del plugin One Press Image Elevator: al copiar y pegar una imagen se sube directamente a nuestra biblioteca de Medios y se inserta en el contenido de la Entrada.
 
-**IMPORTANTE:** La imagen se puede alinear al texto
+**IMPORTANTE:** haciendo clic en la imagen, se muestran unos botones que permiten modificar la alineación de la imagen respecto al texto.
 
 ![](/assets/insertar_imagen.png)
 
@@ -24,5 +24,5 @@ Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opcion
 
 ![](/assets/medios.png)
 
-**EJERCICIO:** Añade en las entradas que has creado una o varias fotos, dándole al botón "**Añadir objeto**" =&gt; se seleccionan desde tu PC y se guardan en la biblioteca de "**Medios**" de Wordpress
+**EJERCICIO:** Añade en las entradas que has creado una o varias fotos, dándole al botón "**Añadir objeto**" =&gt; se seleccionan desde tu PC y se guardan en la biblioteca de "**Medios**" de Wordpress.
 

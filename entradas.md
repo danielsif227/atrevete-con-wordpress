@@ -1,8 +1,10 @@
 # ¡Adelante con la primera Entrada!
 
+Desde el Escritorio de Wordpress, dispondrás del menú lateral izquierdo, donde podrás entrar en la opción del menú "Entradas" &gt; "Añadir nueva". De aquí en adelante, se utilizará la siguiente nomenclatura para indicar en qué opción del menú hay que entrar:
+
 `Escritorio > Entradas > Añadir nueva`
 
-En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
+**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida".
 
 ![](/assets/nueva_entrada.png)
 
@@ -10,12 +12,15 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 
 ## Opciones de edición de la entrada
 
-* Editor Visual o editor HTML
-* Extracto
-* Imagen destacada \(mejor usar imagen en horizontal\) ¡interesante!, aparecerá una imagen en la parte superior de la entrada
-* ¡Visualicemos la entrada! atención al ID de página y al Slug
+En la página de edición de una entrada existen múltiples opciones, a destacar:
 
-**PRIMER TRUCO:** "Opciones de pantalla" para ver más opciones
+* Nombre y contenido de la entrada, con un editor visual de texto \(opciones de negrita, cursiva, color de letra, etc\).
+* Editor Visual o editor HTML: El editor Visual será el más utilizado, dejando el editor HTML sólo para casos muy puntuales.
+* Extracto: Un breve resumen de la entrada.
+* Imagen destacada \(mejor usar un imagen horizontal\). Opción ¡interesante! porque aparecerá una imagen en la parte superior de la entrada.
+* ¡Visualicemos la entrada! atención al ID de página y al Slug, ya que aparecerán en la dirección web.
+
+**PRIMER TRUCO:** clic en "Opciones de pantalla" para ver más opciones en un panel que se despliega desde arriba.
 
 ![](/assets/editar_entrada_blog.png)
 
@@ -27,13 +32,17 @@ En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida"
 
 ## Editando contenidos
 
-* Mantener vivo el blog con 3 entradas/semana
-* Ser respetuoso
-* Cuidar la redacción
+El administrador de un Wordpress debe tener en cuenta, entre otros, estos criterios:
 
-**EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis"
+* Mantener vivo el blog con una frecuencia de 3 entradas/semana aproximadamente.
+* Ser respetuoso con lo que se escribe.
+* Cuidar la redacción del texto.
 
-**EJERCICIO:** Añade un enlace a otra web dentro del contenido de una entrada
+**EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis".
 
-**INTERESANTE:** Botón "**Leer más**": es específico de Wordpress, sirve para mostrar sólo una parte de la entrada y que el lector tenga que darle clic en "leer más..." para terminar de leer toda la entrada
+**EJERCICIO:** Añade un enlace a otra web \([http://www.educaragon.org\](http://www.educaragon.org%29\) dentro del contenido de una entrada.
+
+![](/assets/crear-enlace.png)
+
+**INTERESANTE:** Botón "**Leer más**": ![](/assets/leer-mas.png) Es específico de Wordpress, sirve para mostrar sólo una parte de la entrada y que el lector tenga que darle clic en "leer más..." para terminar de leer toda la entrada.
 

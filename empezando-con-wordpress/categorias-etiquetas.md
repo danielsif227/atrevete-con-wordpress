@@ -1,11 +1,12 @@
-Las Categorías y Etiquetas son útiles **para clasificar las Entradas**
+Las Categorías y Etiquetas son útiles **para clasificar las Entradas.**
 
 #### CATEGORÍAS
 
 `Escritorio > Entradas > Categorías`
 
-* Podemos construir Jerarquía de Categorías
-* Ejemplos: Dirección, Departamento Matemáticas, Departamento Lengua, etc.
+* Podemos construir una **jerarquía **de Categorías.
+
+**EJERCICIO**: crea estas categorías: Dirección, Departamento Matemáticas, Departamento Lengua, etc.
 
 ![](/assets/categorias.png)
 
@@ -13,14 +14,11 @@ Las Categorías y Etiquetas son útiles **para clasificar las Entradas**
 
 `Escritorio > Entradas > Etiquetas`
 
-* No jerárquicas. Transversales
-* Ejemplos: Noticias, Extraescolar, etc.
-* Se puede hacer una nube de etiquetas
-* Se pueden crear directamente en la página de creación/edición de una Entrada
+* Las Etiquetas no son jerárquicas, sino **transversales.**
+* Se podrá hacer una "nube de etiquetas".
+* Se pueden crear directamente en la página de creación/edición de una Entrada.
+
+**EJERCICIO**: crea al menos estas etiquetas: Noticias, Extraescolar.
 
 ![](/assets/etiquetas.png)
-
-
-
-
 

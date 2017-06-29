@@ -22,7 +22,7 @@ En Internet existen numerosas páginas y videotutoriales detallando el proceso d
 
 * Instalación en hosting de webempresa.com. Centrarse en el apartado "2. Instalar WordPress de manera avanzada. Modo manual": [http://ernestogbustamante.com/instalar-wordpress-hosting/](http://ernestogbustamante.com/instalar-wordpress-hosting/)
 * Si escojes alojamiento en 1and1.es, este tutorial es ideal: [https://www.baquia.com/emprendedores/2013-10-30-11-instalar-wordpress-servidor-11-hosting-proceso-tutorial-dominios-pagina-web](https://www.baquia.com/emprendedores/2013-10-30-11-instalar-wordpress-servidor-11-hosting-proceso-tutorial-dominios-pagina-web)
-* Etc., ya que se puede buscar en Internet "tutorial instalar Wordpress en servidor de hosting web" y obtendrás multitud de más páginas con información al respecto.
+* Etc., ya que se puede buscar en Internet "tutorial instalar Wordpress en servidor de hosting web" y obtendrás multitud de más páginas con información.
 
 
 

@@ -13,5 +13,5 @@ Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema 
 
 **IMPORTANTE: **Escoger el tema antes de empezar a echar muchas horas en la configuración y puesta en marcha del Wordpress, porque puede llegar a condicionar bastante.
 
-Los temas "**responsivos**" se adaptan al tamaño del dispositivo. El Tema Graphene no es responsivo \(herencia visual de e-ducativa\)
+Los temas **responsivos** se adaptan al tamaño del dispositivo, ya sea pantalla de ordenador, tablet o móvil. El Tema Graphene no es responsivo \(herencia visual de e-ducativa en Catedu\).
 
