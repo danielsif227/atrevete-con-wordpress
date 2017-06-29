@@ -28,5 +28,5 @@ En un Wordpress que depende de un WP MUltisitio: sólo se podrán activar los pl
 
 Para desinstalar un plugin, hay que ir a la lista de plugins `Escritorio > Plugins`. Primero hay que **Desactivar **el Plugin y después **Borrar **el Plugin.
 
-
+![](/assets/desinstalar-plugin.png)
 
