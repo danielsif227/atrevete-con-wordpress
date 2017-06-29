@@ -4,16 +4,22 @@ Conviene diferenciar los tipos de Wordpress con los que podemos trabajar, ya que
 
 #### El código fuente de Wordpress
 
-**wordpress.org**: En este sitio web se encuentra el código fuente de Wordpress. Con el código fuente de Wordpress tal cual, no se puede hacer mucho, porque se necesita un "hosting web", por ej: www.hostwp.es, donde copiar el código fuente de Wordpress de forma que el sitio web esté disponible en Internet las 24 horas. Si se decide utilizar el código fuente de Wordpress para crear el sitio web, habrá que instalar el Wordpress desde cero, lo cual suele requerir conocimientos más avanzados sobre administración de sitios web, ya que normalmente habrá que subir el código fuente de Worpdress al servidor utilizando un cliente FTP, además de crear una base de datos para el Wordpress, y conectar Wordpress con dicha base de datos. A cambio, con esta opción:
+**wordpress.org**: En este sitio web se encuentra el código fuente de Wordpress. Con el código fuente de Wordpress tal cual, no se puede hacer mucho, porque se necesita un "hosting web" o "alojamiento web", donde habrá que instalar el Wordpress desde cero, lo cual requiere conocimientos más avanzados sobre administración de sitios web,
+
+ya que normalmente habrá que subir el código fuente de Worpdress al servidor utilizando un cliente FTP, además de crear una base de datos para el Wordpress, y conectar Wordpress con dicha base de datos. 
+
+
+
+A cambio, con esta opción:
 
 * Serás el administrador total del Wordpress, con total libertad para instalar plugins y temas.
-* Tendrás la responsabilidad de que el sitio web esté bien configurado y equipado.
+* Pero tendrás la responsabilidad de que el sitio web esté bien configurado y securizado.
 
 #### Wordpress individuales creados a través de Internet
 
 **wordpress.com**: Es un sitio web que ofrece a todos los usuarios la creación de su propio wordpress indivdual con unos pocos clics.
 
-* El sitio wordpress se enotrará preconfigurado  y totalmente equipado con una gran selección de temas y plugins.
+* El sitio wordpress se encotrará preconfigurado  y totalmente equipado con una gran selección de temas y plugins.
 * Queda restringida la posibilidad de instalar otros temas y plugins.
 * La opción gratuita incluye propaganda. Las opciones de pago no incluyen publicidad, e incluyen más temas y plugins para que puedan ser utilizados.
 
