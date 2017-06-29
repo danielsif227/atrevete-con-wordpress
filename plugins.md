@@ -14,5 +14,5 @@ En la zona de instalación de plugins aparece información sobre el plugin muy i
 
 **IMPORTANTE: **Si un plugin no lo usas, ¡desactívalo! porque consume RAM y será un agujero de seguridad. O mejor ¡bórralo! siempre podrás volver a instalarlo.
 
-En un Wordpress que depende de un WP MUltisitio: sólo se podrán activar los plugins que el SuperAdministrador haya instalado. Esto es así porque es una medida de seguridad para el sitio completo.
+En un Wordpress que depende de un WP MUltisitio: sólo se podrán activar los plugins que el SuperAdministrador haya instalado. Esto es así porque es una medida de seguridad para el sitio completo y para todos los wordpress que dependen del WP MUltisitio.
 
