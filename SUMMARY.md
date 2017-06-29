@@ -36,13 +36,13 @@
 ## Módulo 3. Seguridad
 
 * [Seguridad en Wordpress](seguridad-en-wordpress.md)
+  * [Actualizar Wordpress](seguridad-en-wordpress/actualizar-wordpress.md)
   * [Wordfence](seguridad-en-wordpress/wordfence.md)
   * [All In One WP Security](seguridad-en-wordpress/all-in-one-wp-security.md)
   * [Copia de seguridad](seguridad-en-wordpress/copia-de-seguridad.md)
   * [UpdraftPlus](seguridad-en-wordpress/updraftplus.md)
   * [UpdraftPlus con Dropbox y Google Drive](seguridad-en-wordpress/updraftplus-con-dropbox-y-google-drive.md)
   * [BackWPup](seguridad-en-wordpress/backwpup.md)
-  * [Actualizar Wordpress](actualizar-wordpress.md)
 
 ## Módulo 4. Ampliación con HTML y CSS
 
