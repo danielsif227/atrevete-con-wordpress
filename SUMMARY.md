@@ -48,7 +48,7 @@
 
 ## Módulo 4. Ampliación con HTML y CSS
 
-* [Edición visual avanzada con HTML y CSS](edicion-visual-avanzada-html-y-css.md)
+* [Edición visual avanzada con HTML y CSS](edicion-visual-avanzada-html-y-css/edicion-visual-avanzada-html-y-css.md)
   * [Añadir CSS en el Tema](edicion-visual-avanzada-html-y-css/anadir-css-en-el-tema.md)
   * [Temas hijos](edicion-visual-avanzada-html-y-css/temas-hijos.md)
 
