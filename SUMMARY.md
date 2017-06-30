@@ -24,7 +24,7 @@
 
 ## Módulo 2. Plugins
 
-* [Plugins](plugins/plugins.md)
+* [Plugins](plugins.md)
   * [Plugins de Wordpress de CATEDU](plugins/plugins-de-wordpress-de-catedu.md)
   * [Jetpack](plugins/jetpack.md)
   * [Redes sociales](plugins/redes-sociales.md)
