@@ -7,7 +7,7 @@
   * [Qué es Wordpress](que-es-wordpress.md)
   * [Tipos de Wordpress](tipos-de-wordpress.md)
   * [Nomenclatura](nomenclatura.md)
-* [Puesta en marcha](puesta-en-marcha.md)
+* [Puesta en marcha](empezando-con-wordpress/puesta-en-marcha.md)
   * [Crear Wordpress en wordpress.com](empezando-con-wordpress/crear-wordpress-en-wordpresscom.md)
   * [Instalar Wordpress en un alojamiento web](empezando-con-wordpress/crear-wordpress-en-un-alojamiento-web.md)
 * [Utilizando Wordpress](lo-esencial.md)
