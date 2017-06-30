@@ -4,9 +4,9 @@
 
 Inicia sesión en Dropbox en otra pestaña del navegador. Y vuelve al Wordpress en la opción `UpdraftPlus > Ajustes`:
 
-![](/assets/Selección_026.png)
+![](/assets/UpdraftPlus-1.png)
 
-![](/assets/Selección_034.png)
+![](/assets/UpdraftPlus-2.png)
 
 ![](/assets/Selección_027.png)
 
