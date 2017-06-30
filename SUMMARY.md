@@ -4,9 +4,9 @@
 
 * [Introducción](README.md)
   * [Objetivos](objetivos.md)
-  * [Qué es Wordpress](que-es-wordpress.md)
-  * [Tipos de Wordpress](tipos-de-wordpress.md)
-  * [Nomenclatura](nomenclatura.md)
+  * [Qué es Wordpress](empezando-con-wordpress/que-es-wordpress.md)
+  * [Tipos de Wordpress](empezando-con-wordpress/tipos-de-wordpress.md)
+  * [Nomenclatura](empezando-con-wordpress/nomenclatura.md)
 * [Puesta en marcha](empezando-con-wordpress/puesta-en-marcha.md)
   * [Crear Wordpress en wordpress.com](empezando-con-wordpress/crear-wordpress-en-wordpresscom.md)
   * [Instalar Wordpress en un alojamiento web](empezando-con-wordpress/instalar-wordpress-en-un-alojamiento-web.md)
