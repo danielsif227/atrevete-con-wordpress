@@ -1,6 +1,8 @@
 ## Páginas
 
-`Escritorio > Páginas > Añadir nueva`
+```
+Acceso en: Escritorio > Páginas > Añadir nueva
+```
 
 Las Páginas se crean de forma prácticamente idéntica que las Entradas.
 

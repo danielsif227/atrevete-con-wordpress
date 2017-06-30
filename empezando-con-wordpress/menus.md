@@ -1,7 +1,7 @@
 # Menús
 
 ```
-Escritorio > Apariencia > Menús
+Acceso en: Escritorio > Apariencia > Menús
 ```
 
 Es esencial tener al menos un menú en el Wordpress. La alternativa a menús es clasificar las entradas por fecha, categoría, etiquetas, etc, mediante Widgets.

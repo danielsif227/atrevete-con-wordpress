@@ -36,5 +36,7 @@ Programar la copia para que se haga sólo una vez, y revisar el resto de opcione
 
 #### Restaurar copia
 
-Para restaurar una copia, es necesario tener acceso al alojamiento web.
+Para restaurar una copia, es necesario tener acceso al alojamiento web. En el siguiente enlace hay una guía de cómo restaurar una copia de seguridad realizada con BackWPup:
+
+https://www.haciaelautoempleo.com/backwpup-como-restablecer-una-copia-de-seguridad/
 

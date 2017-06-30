@@ -1,7 +1,7 @@
 ## Comentarios sobre las Entradas
 
 ```
-Escritorio > Ajustes > Comentarios
+Acceso en: Escritorio > Ajustes > Comentarios
 ```
 
 Conviene ajustar los comentarios en el Wordpress para evitar que el Wordpress se llene de spam. Para ello conviente activar y desactivar ciertas opciones:

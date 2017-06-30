@@ -1,6 +1,8 @@
 # Instalando un plugin
 
-`Escritorio > Plugins`
+```
+Acceso en: Escritorio > Plugins
+```
 
 **EJERCICIO: **Instala el plugin "**TablePress**" en tu blog y utilizalo para crear una tabla en una Entrada. Para ello lo realizaremos de la siguiente forma:
 

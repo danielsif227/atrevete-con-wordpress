@@ -1,7 +1,7 @@
 # Usuarios y Roles
 
 ```
-Escritorio > Usuarios
+Acceso en: Escritorio > Usuarios
 ```
 
 Wordpress permite tener varios usuarios. Los roles de cada usuario determinarán las posibilidades de edición del Wordpress. Los roles disponibles por defecto en Wordpress son:

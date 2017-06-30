@@ -8,7 +8,9 @@ El proceso a realizar es el siguiente:
 
 #### 1º exportar:
 
-`Escritorio > Herramientas > Exportar`
+```
+Acceso en: Escritorio > Herramientas > Exportar
+```
 
 * Se genera un archivo .xml que se guarda en tu PC, que puede abrirse con un editor de textos \(recomendado usar notepad++\)
 * Se guardan: Páginas, Entradas, Comentarios, Menú.
@@ -16,7 +18,9 @@ El proceso a realizar es el siguiente:
 
 #### 2º Importar
 
-`Escritorio > Herramientas > Importar`
+```
+Acceso en: Escritorio > Herramientas > Importar
+```
 
 * Se utiliza el archivo .xml que se ha exportado a tu PC con anterioridad
 * El sitio Wordpress antiguo **DEBE ESTAR FUNCIONANDO**

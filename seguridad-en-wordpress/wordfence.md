@@ -13,7 +13,9 @@
 
 3º Se lanza con la opción SCAN:
 
-`Wordfence > Scan > Botón "Start a Wordfence scan"`
+```
+Acceso en: Wordfence > Scan > Botón "Start a Wordfence scan"
+```
 
 **Resultados**: Hay veces que salen falsas alarmas, hay que analizarlas en profundidad.
 
@@ -23,7 +25,9 @@
 
 Wordfence incluye reglas para cortar conexiones que son detectadas como maliciosas. Hay que destacar la configuración de ataques por fuerza bruta.
 
-`Wordfence > Firewall > Brute Force Protection`
+```
+Acceso en: Wordfence > Firewall > Brute Force Protection
+```
 
 * **Enforce strong passwords**: Activado. Exigir uso de passwords fuertes a todos/determinados roles de usuario
 * **Lock out after how many login failures**:  Bloquear tu IP después de 20 fallos de login. Mejor reducir a 5.
@@ -41,11 +45,15 @@ Wordfence incluye reglas para cortar conexiones que son detectadas como malicios
 
 Podemos visualizar el tráfico que hay en el instante:
 
-`Wordfence > Live Traffic`
+```
+Acceso en: Wordfence > Live Traffic
+```
 
 Wordfence permite limitar el tráfico de datos que se genera para evitar sobrecargas y caídas.
 
-`Wordfence > Firewall > Rate Limiting`
+```
+Acceso en: Wordfence > Firewall > Rate Limiting
+```
 
 * **Throttle =** regular el acceso: Wordpress responderá error 503 pero se seguirá permitiendo acceso posteriormente
 * **Block =** bloquear acceso definitivamente. Poner block si tienes problemas con mucho tráfico de robots
@@ -53,6 +61,7 @@ Wordfence permite limitar el tráfico de datos que se genera para evitar sobreca
 * Immediately block fake Google crawlers: Activar
 
 * How should we treat Google's crawlers: Treat Google like any other Crawler
+
 * If anyone's requests exceed: 240 - throttle
 * If a crawler's page views exceed: 240 - throttle
 * If a crawler's pages not found \(404s\) exceed: 30 - block, para evitar que escaneen tu sitio ante vulnerabilidades

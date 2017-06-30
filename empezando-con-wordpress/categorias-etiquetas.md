@@ -2,7 +2,9 @@ Las Categorías y Etiquetas son útiles **para clasificar las Entradas.**
 
 #### CATEGORÍAS
 
-`Escritorio > Entradas > Categorías`
+```
+Acceso en: Escritorio > Entradas > Categorías
+```
 
 * Podemos construir una **jerarquía **de Categorías.
 
@@ -12,7 +14,9 @@ Las Categorías y Etiquetas son útiles **para clasificar las Entradas.**
 
 #### ETIQUETAS
 
-`Escritorio > Entradas > Etiquetas`
+```
+Acceso en: Escritorio > Entradas > Etiquetas
+```
 
 * Las Etiquetas no son jerárquicas, sino **transversales.**
 * Se podrá hacer una "nube de etiquetas".

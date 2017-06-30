@@ -1,6 +1,8 @@
 ## Biblioteca de Medios
 
-`Escritorio > Medios`
+```
+Acceso en: Escritorio > Medios
+```
 
 En la biblioteca de Medios podremos subir documentos e imágenes al sitio web Wordpres.
 

@@ -5,7 +5,7 @@ Es posible entrar en distintas zonas de la configuración del Wordpress:
 #### PERSONALIZAR
 
 ```
-Escritorio > Apariencia > Personalizar
+Acceso en: Escritorio > Apariencia > Personalizar
 ```
 
 En esta opción de Personalizar se puede acceder desde un sitio centralizado a cambiar el Título del sitio, los colores del fondo del tema visual, el tipo de letra, acceso a la configuración de menús, configuración de los widgets.
@@ -15,7 +15,7 @@ En la opción "Portada estática" se puede configurar que la página de inicio d
 #### AJUSTES
 
 ```
-Escritorio > Ajustes > Generales
+Acceso en: Escritorio > Ajustes > Generales
 ```
 
 Se puede cambiar el Título del sitio, el formato de fecha, la zona horaria \(en España deberá ser UTC +1\)
@@ -23,7 +23,7 @@ Se puede cambiar el Título del sitio, el formato de fecha, la zona horaria \(en
 #### ESCRITURA
 
 ```
-Escritorio > Ajustes > Escritura
+Acceso en: Escritorio > Ajustes > Escritura
 ```
 
 Se puede escoger que las entradas se marquen por defecto en una categoría, activar la publicación automática de entradas mediante el envío de un email a una dirección secreta de email, etc.
@@ -31,7 +31,7 @@ Se puede escoger que las entradas se marquen por defecto en una categoría, acti
 #### LECTURA
 
 ```
-Escritorio > Ajustes > Lectura
+Acceso en: Escritorio > Ajustes > Lectura
 ```
 
 Se puede escoger que la página inicial del blog muestre las últimas entradas o una página estática concreta, el número máximo de entradas a mostrar por página, etc.
@@ -39,7 +39,7 @@ Se puede escoger que la página inicial del blog muestre las últimas entradas o
 #### MEDIOS
 
 ```
-Escritorio > Ajustes > Medios
+Acceso en: Escritorio > Ajustes > Medios
 ```
 
 Cada vez que subamos una imagen al Wordpress, automáticamente se guardará redimensionada en distintos tamaños, los cuales podrremos modificar, etc.

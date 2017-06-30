@@ -1,6 +1,8 @@
 # Instalar y activar un Tema
 
-`Escritorio > Apariencia > Temas`
+```
+Acceso en:Escritorio > Apariencia > Temas
+```
 
 Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema tiene una distribución y unos colores propios.
 

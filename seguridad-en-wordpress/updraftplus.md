@@ -4,7 +4,9 @@ Una vez instalado y activado el plugin, su funcionalidad está accesible desde l
 
 #### Realizar un respaldo
 
-`UpdraftPlus > Estado actual / Respaldar ahora > botón RESPALDAR AHORA`
+```
+Acceso en: UpdraftPlus > Estado actual / Respaldar ahora > botón "Respaldar ahora"
+```
 
 ![](/assets/realizar_respaldo.png)
 
