@@ -3,9 +3,9 @@
 ## Módulo 1. ¡Empezando!
 
 * [Introducción](README.md)
-  * [Tipos de Wordpress](tipos-de-wordpress.md)
-  * [Qué es Wordpress](que-es-wordpress.md)
   * [Objetivos](objetivos.md)
+  * [Qué es Wordpress](que-es-wordpress.md)
+  * [Tipos de Wordpress](tipos-de-wordpress.md)
   * [Nomenclatura](nomenclatura.md)
 * [Puesta en marcha](empezando-con-wordpress.md)
   * [Crear Wordpress en wordpress.com](empezando-con-wordpress/crear-wordpress-en-wordpresscom.md)
