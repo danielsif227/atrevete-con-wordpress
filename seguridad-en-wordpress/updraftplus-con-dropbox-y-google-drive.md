@@ -8,25 +8,23 @@ Inicia sesión en Dropbox en otra pestaña del navegador. Y vuelve al Wordpress 
 
 ![](/assets/UpdraftPlus-2.png)
 
-![](/assets/Selección_027.png)
+![](/assets/UpdraftPlus-3.png)
 
-![](/assets/Selección_028.png)
+![](/assets/UpdraftPlus-4.png)
 
-![](/assets/Selección_029.png)
+![](/assets/UpdraftPlus-5.png)
 
 Podemos elegir si queremos que la copia se haga automáticamente con la periodicidad que digamos, o que la copia haya que hacerla manualmente.
 
-![](/assets/Selección_030.png)
+![](/assets/UpdraftPlus-6.png)
 
-![](/assets/Selección_031.png)
+![](/assets/UpdraftPlus-7.png)
 
 Al terminar el proceso, la copia de respaldo estará en **Dropbox &gt; Aplicaciones &gt; UpdraftPlus.Com**
 
-Si se lanza otra copia de respaldo hacia Dropbox, se guardará en esta misma carpeta UpdraftPlus.Com.
+Si se lanza otra copia de respaldo hacia Dropbox, se guardará en esta misma carpeta UpdraftPlus.Com. El nombre de los archivos de respaldo incluyen la fecha y la hora del respaldo.
 
-El nombre de los archivos de respaldo incluyen la fecha y la hora del respaldo.
-
-![](/assets/Selección_033.png)
+![](/assets/UpdraftPlus-8.png)
 
 Al terminar el proceso, si no hubiéramos marcado la opción de "Borrar respaldos locales", la copia de respaldo la tendríamos **en el servidor,** ocupando un valioso espacio, y** **podríamos verlo con el plugin **File-Manager** en: `public_html > wp-content > updraft`
 
