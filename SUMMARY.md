@@ -36,7 +36,7 @@
 
 ## Módulo 3. Seguridad
 
-* [Seguridad en Wordpress](seguridad-en-wordpress.md)
+* [Seguridad en Wordpress](seguridad-en-wordpress/seguridad-en-wordpress.md)
   * [Actualizar Wordpress](seguridad-en-wordpress/actualizar-wordpress.md)
   * [Wordfence](seguridad-en-wordpress/wordfence.md)
   * [All In One WP Security](seguridad-en-wordpress/all-in-one-wp-security.md)
