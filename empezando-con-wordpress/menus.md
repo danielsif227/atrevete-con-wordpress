@@ -8,17 +8,13 @@ Es esencial tener al menos un menú en el Wordpress. Se podrían  clasificar las
 
 ![](/assets/crear-menu-1.png)
 
-Una vez que se han añadido los ítems que se deseen al menú, se pueden reordenar, simplemente arrastrandolos arriba o abajo, y también izquierda o derecha. Los ítems que estén alineados a la izquierda del todo \(en la imagen son "El centro" y "Departamentos"\) serán los nombres de los ítems del primer nivel del menú. Aquellos ítems que estén tabulados debajo de otros ítems serán los elementos del menú. De esta forma, el menú estará compuesto por dos 
+Una vez que se han añadido los ítems que se deseen al menú, se pueden reordenar, simplemente arrastrandolos arriba o abajo, y también izquierda o derecha. Los ítems que estén alineados a la izquierda del todo \(en la imagen son "El centro" y "Departamentos"\) serán los elementos del primer nivel del menú. Aquellos ítems que estén tabulados debajo de otros ítems serán los subelementos del menú. De esta forma, el menú puede estar compuesto en varios niveles de profuncidad.
 
 ![](/assets/crear-menu-2.png)
-
-Si se arrastran con una anidación, se conseguirá que el menú tenga varios niveles de profuncidad.
 
 Se puede personalizar cada ítem del menú haciendo clic en la flecha que tienen a la derecha y se puede cambiar el nombre con el que se mostrarán.
 
 ![](/assets/crear-menu-3.png)
-
-
 
 **EJERCICIO: **Crea un menú, llámalo "MENU PRINCIPAL", con la siguiente estructura en dos niveles:
 
