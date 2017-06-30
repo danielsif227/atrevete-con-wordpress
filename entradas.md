@@ -2,7 +2,7 @@
 
 Desde el Escritorio de Wordpress, dispondrás del menú lateral izquierdo, donde podrás entrar en la opción del menú "Entradas" &gt; "Añadir nueva". De aquí en adelante, se utilizará la siguiente nomenclatura para indicar en qué opción del menú hay que entrar:
 
-`Escritorio > Entradas > Añadir nueva`
+Acceso en: `Escritorio > Entradas > Añadir nueva`
 
 **EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida".
 
