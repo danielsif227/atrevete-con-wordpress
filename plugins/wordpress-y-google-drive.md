@@ -1,12 +1,12 @@
 ## Embeber archivos de Google Drive en Wordpress
 
-#### Uso
+#### USO
 
 **Google Apps Login + Google Drive Embedder**: Con la combinación de estos plugins se podrá añadir archivos de Google Drive embebidos en las entradas del Wordpress:
 
 ![](/assets/g_embedder_uso.png)
 
-#### Configuración
+#### CONFIGURACIÓN
 
 Es necesario instalar, activar y configurar el plugin **Google Apps Login**: En el `Wordpress > Escritorio > Ajustes > Google Apps Login`, necesitamos obtener un ID y un Secreto de cliente.
 

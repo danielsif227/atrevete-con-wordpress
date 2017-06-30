@@ -6,7 +6,7 @@ Acceso en: Escritorio > Medios
 
 En la biblioteca de Medios podremos subir documentos e imágenes al sitio web Wordpres.
 
-## Insertar imágenes
+#### INSERTAR IMÁGENES
 
 Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opciones para hacerlo:
 
@@ -20,7 +20,7 @@ Se pueden añadir imágenes en las Páginas y en las Entradas. Hay varias opcion
 
 ---
 
-## Edición de una imagen:
+#### EDICIÓN DE UNA IMAGEN
 
 * Las imágenes se pueden editar en la librería de Medios \(`Escritorio > Medios > Biblioteca > Clic en el lápiz de editar imagen > Editar imagen > escalar/recortar/girar`\)
 

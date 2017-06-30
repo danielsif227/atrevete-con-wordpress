@@ -1,4 +1,4 @@
-# Instalando un plugin
+## Instalando un plugin
 
 ```
 Acceso en: Escritorio > Plugins
@@ -26,7 +26,9 @@ Una vez instalado, hay que ir a la lista de plugins y ActivarloSi tenemos permis
 
 En un Wordpress que depende de un WP MUltisitio: sólo se podrán activar los plugins que el SuperAdministrador haya instalado. Esto es así porque es una medida de seguridad para el sitio completo y para todos los wordpress que dependen del WP MUltisitio.
 
-# Desinstalando un plugin
+---
+
+## Desinstalando un plugin
 
 Para desinstalar un plugin, hay que ir a la lista de plugins `Escritorio > Plugins`. Primero hay que **Desactivar **el Plugin y después **Borrar **el Plugin.
 

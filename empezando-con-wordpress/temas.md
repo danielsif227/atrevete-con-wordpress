@@ -1,10 +1,10 @@
-# Instalar y activar un Tema
+## Instalar y activar un Tema
 
 ```
 Acceso en: Escritorio > Apariencia > Temas
 ```
 
-Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema tiene una distribución y unos colores propios. Una vez activado un tema \(con el botón "Activar"\), se puede acceder a sus opciones de modificación de la apariencia del tema con el botón "Personalizar". 
+Los Temas constituyen la plantilla de visualización de un Wordpress: Cada tema tiene una distribución y unos colores propios. Una vez activado un tema \(con el botón "Activar"\), se puede acceder a sus opciones de modificación de la apariencia del tema con el botón "Personalizar".
 
 ![](/assets/temas.png)
 

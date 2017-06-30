@@ -1,3 +1,5 @@
+## Categorías y Etiquetas
+
 Las Categorías y Etiquetas son útiles **para clasificar las Entradas.**
 
 #### CATEGORÍAS

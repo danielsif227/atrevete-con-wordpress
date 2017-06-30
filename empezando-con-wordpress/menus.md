@@ -1,4 +1,4 @@
-# Menús
+## Menús
 
 ```
 Acceso en: Escritorio > Apariencia > Menús

@@ -16,7 +16,9 @@ Los Widgets son plugins o partes de plugins que se visualizan en las columnas la
 
 **NOTA: **Si tienes un Wordpress en wordpress.com podrás observar la gran cantidad de widgets disponibles que ya hay instalados para ser usados directamente.
 
-## EJERCICIO: imagen lateral con enlace
+---
+
+#### EJERCICIO: imagen lateral con enlace
 
 Es frecuente querer poner una imagen con un texto y un enlace \(por ejemplo referenciando a [http://www.educaragon.org\](http://www.educaragon.org%29%29 en un Widget de Texto en el lateral %28o en la zona de widgets del footer\). Este ejercicio propone que añadas una imagen que enlace a una Web en una barra de Widgets de tu Wordpress . Para ello hay que realizar lo siguiente:
 

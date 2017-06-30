@@ -1,4 +1,4 @@
-# ¡Adelante con la primera Entrada!
+## ¡Adelante con la primera Entrada!
 
 Desde el Escritorio de Wordpress, dispondrás del menú lateral izquierdo, donde podrás entrar en la opción del menú "Entradas" &gt; "Añadir nueva". De aquí en adelante, se utilizará la siguiente nomenclatura para indicar en qué opción del menú hay que entrar:
 

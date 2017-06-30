@@ -1,4 +1,4 @@
-# ¡Empezamos!
+## ¡Empezamos!
 
 > Para acceder al Escritorio de un Wordpress, que consiste en un panel de administración, se realiza a través de la dirección del blog seguida de **/wp-admin/**:
 >

@@ -1,4 +1,4 @@
-# Más configuraciones
+## Más configuraciones
 
 Es posible entrar en distintas zonas de la configuración del Wordpress:
 

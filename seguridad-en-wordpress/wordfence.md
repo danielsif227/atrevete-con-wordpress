@@ -1,4 +1,6 @@
-## Escanear el Wordpress
+## Wordfence
+
+#### ESCANEAR EL WORDPRESS
 
 1º **Wordfence **compara lo que tenemos en nuestro servidor con los repositorios oficiales. **Por ello, primero requiere que tengamos todo actualizado.**
 
@@ -21,7 +23,7 @@ Acceso en: Wordfence > Scan > Botón "Start a Wordfence scan"
 
 ---
 
-## Firewall
+#### FIREWALL
 
 Wordfence incluye reglas para cortar conexiones que son detectadas como maliciosas. Hay que destacar la configuración de ataques por fuerza bruta.
 
@@ -41,7 +43,7 @@ Acceso en: Wordfence > Firewall > Brute Force Protection
 
 ---
 
-## Limitar tráfico
+#### LIMITAR TRÁFICO
 
 Podemos visualizar el tráfico que hay en el instante:
 
@@ -63,6 +65,7 @@ Acceso en: Wordfence > Firewall > Rate Limiting
 * How should we treat Google's crawlers: Treat Google like any other Crawler
 
 * If anyone's requests exceed: 240 - throttle
+
 * If a crawler's page views exceed: 240 - throttle
 * If a crawler's pages not found \(404s\) exceed: 30 - block, para evitar que escaneen tu sitio ante vulnerabilidades
 * If a human's page views exceed: 240 - throttle
