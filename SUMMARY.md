@@ -20,7 +20,7 @@
   * [Temas](empezando-con-wordpress/temas.md)
   * [Widgets](empezando-con-wordpress/widgets.md)
   * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
-  * [Más configuraciones](empezando-con-wordpress/configurando-wordpress.md)
+  * [Más configuraciones](empezando-con-wordpress/mas-configuraciones.md)
 
 ## Módulo 2. Plugins
 
