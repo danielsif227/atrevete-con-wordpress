@@ -11,7 +11,7 @@
   * [Crear Wordpress en wordpress.com](empezando-con-wordpress/crear-wordpress-en-wordpresscom.md)
   * [Instalar Wordpress en un alojamiento web](empezando-con-wordpress/crear-wordpress-en-un-alojamiento-web.md)
 * [Utilizando Wordpress](lo-esencial.md)
-  * [Entradas](entradas.md)
+  * [Entradas](empezando-con-wordpress/entradas.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
   * [Categorías y Etiquetas](empezando-con-wordpress/categorias-etiquetas.md)
