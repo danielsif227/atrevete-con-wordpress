@@ -4,7 +4,21 @@
 Acceso en: Escritorio > Apariencia > Menús
 ```
 
-Es esencial tener al menos un menú en el Wordpress. La alternativa a menús es clasificar las entradas por fecha, categoría, etiquetas, etc, mediante Widgets.
+Es esencial tener al menos un menú en el Wordpress. Se podrían  clasificar las entradas por fecha, categoría, etiquetas, etc, utilizando Widgets que muestren entradas por categorías u otros cirterios, etc., pero un menú siempre será de gran utilidad para facilitar la navegación por el sitio web. Una vez se accede a la página de configuración de menús, en la zona izquierda, se selecciona y añade el ítem deseado a añadir en el menú. En la siguiente captura, se ha seleccionado y añadido al menú la página "Dónde estamos".
+
+![](/assets/crear-menu-1.png)
+
+Una vez que se han añadido los ítems que se deseen al menú, se pueden reordenar, simplemente arrastrandolos arriba o abajo, y también izquierda o derecha. Los ítems que estén alineados a la izquierda del todo \(en la imagen son "El centro" y "Departamentos"\) serán los nombres de los ítems del primer nivel del menú. Aquellos ítems que estén tabulados debajo de otros ítems serán los elementos del menú. De esta forma, el menú estará compuesto por dos 
+
+![](/assets/crear-menu-2.png)
+
+Si se arrastran con una anidación, se conseguirá que el menú tenga varios niveles de profuncidad.
+
+Se puede personalizar cada ítem del menú haciendo clic en la flecha que tienen a la derecha y se puede cambiar el nombre con el que se mostrarán.
+
+![](/assets/crear-menu-3.png)
+
+
 
 **EJERCICIO: **Crea un menú, llámalo "MENU PRINCIPAL", con la siguiente estructura en dos niveles:
 
