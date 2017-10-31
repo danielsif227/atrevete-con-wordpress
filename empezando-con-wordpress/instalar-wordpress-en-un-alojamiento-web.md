@@ -9,19 +9,17 @@ Existen numerosas "empresas de alojamiento web" para que tu sitio web esté en I
 * Empresas españolas de alojamiento web gratuitas en castellano:
   * [https://es.000webhost.com](https://es.000webhost.com) funciona muy bien para ser una opción gratuita. Existen realmente muy pocas opciones para instalar Wordpress en un servidor de hosting gratuito y que la web de configuración esté en español, y [http://es.000webhost.com](http://es.000webhost.com) es una de ellas. Este proveedor de alojamiento es la versión gratuita de Hostinger. Una vez que tengas totalmente montada tu web en 000webhost y decidas que la página se merece un servidor de hosting de pago, podrás pasar a ser cliente de Hostinger dando clic en “Actualizar a PRO”.
 
-
 * Empresas españolas de alojamiento web de pago en castellano:
   * [https://hostinger.es](https://hostinger.es) tiene buena reputación en Internet.
   * [https://raiolanetworks.es](https://raiolanetworks.es) tiene buena reputación en Internet.
   * [https://www.webempresa.com](https://www.webempresa.com) está muy bien valorada y quizás sea la mejor opción por su alta velocidad de carga.
 
-
 * Empresas extranjeras de alojamiento web de pago en castellano:
   * [https://www.siteground.es](https://www.siteground.es) muy recomendada por su atención especializada al cliente para resolver dudas de Wordpress.
 
-Los sevicios de alojamiento web gratuitos serán una buena elección para empezar a probar Wordpress. Pero una vez que el sitio web esté en marcha, empezarás a tener limitaciones que a medio o largo plazo: incluyen publicidad, o van lentos, o la web no está siempre 100% disponible, etc., por lo que conforme se le dé más uso al Wordpress ababará siendo conveniente cambiar a un servidor de pago, que los hay que ofrecen el servicio por precios muy reducidos.
+Los sevicios de alojamiento web gratuitos serán una buena elección para empezar a probar Wordpress. Pero una vez que el sitio web esté en marcha, observarás limitaciones: incluyen publicidad, o van lentos, o la web no está siempre 100% disponible, etc., por lo que conforme se le dé más uso al Wordpress ababará siendo conveniente cambiar a un servidor de pago, que los hay que ofrecen el servicio por precios muy reducidos.
 
-#### Crear cuenta de usuario
+#### Crear cuenta de usuario e instalar
 
 Una vez escogida la empresea de hosting, habrá que crearse en ella una cuenta de usuario. También habrá que escoger el nombre de dirección web para el Wordpress, es decir, la URL de acceso desde el navegador, para lo cual se necesitará registrar un dominio, o utilizar un subdominio que nos proporcione la empresa de hosting. Nos proporcionarán datos para acceso al servicio de hosting, que normalmente incluye:
 
