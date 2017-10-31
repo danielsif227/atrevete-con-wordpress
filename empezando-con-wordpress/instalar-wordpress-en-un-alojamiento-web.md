@@ -1,4 +1,4 @@
-## Instalar Wordpress en un alojamiento web
+## Instalar Wordpress en otro alojamiento web
 
 **Esta opción sólo es recomendable realizarla si tienes conocimientos suficientes sobre administración de alojamientos web, ya que incluyen una dificultad añadida que excede de los objetivos y temporalización del curso, además de suponer un nivel adicional de dificultad.**
 

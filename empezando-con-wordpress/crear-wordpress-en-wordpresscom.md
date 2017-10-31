@@ -1,6 +1,6 @@
 ## Crear Wordpress en wordpress.com
 
-Si decides crear un Wordpress en wordpress.com, hay que ir a la dirección web [http://wordpress.com](http://wordpress.com) y clic en "Empezar"
+Si decides crear un Wordpress en wordpress.com, hay que ir a la dirección web [http://wordpress.com](http://wordpress.com) y clic en "Empezar".
 
 ![](/assets/wordpress.com-1.png)
 
