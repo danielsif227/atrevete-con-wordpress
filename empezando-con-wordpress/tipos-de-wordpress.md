@@ -4,7 +4,7 @@ Conviene diferenciar los tipos de Wordpress con los que podemos trabajar, ya que
 
 #### El código fuente de Wordpress
 
-**wordpress.org**: En este sitio web se encuentra el código fuente de Wordpress. Con el código fuente de Wordpress tal cual, no se puede hacer mucho, porque se necesita un "hosting web" o "alojamiento web", donde habrá que instalar el Wordpress desde cero, lo cual requiere conocimientos más avanzados sobre administración de sitios web.
+**wordpress.org**: En este sitio web se encuentra el código fuente de Wordpress. Con el código fuente de Wordpress tal cual, no se puede hacer mucho, porque se necesita un "hosting web" o "alojamiento web", donde habrá que instalar el Wordpress desde cero, lo cual requiere realizar tareas de administración de sitios web.
 
 A cambio, con esta opción:
 
