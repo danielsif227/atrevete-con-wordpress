@@ -2,9 +2,26 @@
 
 **Esta opción sólo es recomendable realizarla si tienes conocimientos suficientes sobre administración de alojamientos web, ya que incluyen una dificultad añadida que excede de los objetivos y temporalización del curso, además de suponer un nivel adicional de dificultad.**
 
-En primer lugar, hay que escoger una empresa que proporciona el servicio de hosting web \(alojamiento web\). Las hay que ofrecen servicios de hosting gratuito, que para empezar a aprender son la mejor opción. Pero suelen incluir mensajes de publicidad, limitación de espacio de almacenamiento o restricciones de velocidad de acceso, por lo que conforme se le dé más uso al Wordpress acabará siendo conveniente cambiar el plan de hosting a un plan de pago, que los hay a precios realmente muy baratos.
+#### ¿Qué empresa de alojamiento web escoger?
 
-Algunas web que ofrecen alojamiento son por ej: [https://www.webempresa.com](https://www.webempresa.com), [http://1and1.es](http://1and1.es), [http://www.hostinger.es](http://www.hostinger.es), [http://arsys.es](http://arsys.es), , [https://www.hostalia.com](https://www.hostalia.com), etc. Hay páginas que tienen comparativas de precio, servicio y opiniones de estos servicios de hosting, por ejemplo [http://www.top10bestwebsitehosting.com](http://www.top10bestwebsitehosting.com).
+Existen numerosas "empresas de alojamiento web" para que tu sitio web esté en Internet disponible 24h 365 días. En Internet hay numerosas comparativas de precio, servicios, opciones, etc. Aquí destacamos las siguientes:
+
+* Empresas españolas de alojamiento web gratuitas en castellano:
+  * [https://es.000webhost.com](https://es.000webhost.com) funciona muy bien para ser una opción gratuita. Existen realmente muy pocas opciones para instalar Wordpress en un servidor de hosting gratuito y que la web de configuración esté en español, y [http://es.000webhost.com](http://es.000webhost.com) es una de ellas. Este proveedor de alojamiento es la versión gratuita de Hostinger. Una vez que tengas totalmente montada tu web en 000webhost y decidas que la página se merece un servidor de hosting de pago, podrás pasar a ser cliente de Hostinger dando clic en “Actualizar a PRO”.
+
+
+* Empresas españolas de alojamiento web de pago en castellano:
+  * [https://hostinger.es](https://hostinger.es) tiene buena reputación en Internet.
+  * [https://raiolanetworks.es](https://raiolanetworks.es) tiene buena reputación en Internet.
+  * [https://www.webempresa.com](https://www.webempresa.com) está muy bien valorada y quizás sea la mejor opción por su alta velocidad de carga.
+
+
+* Empresas extranjeras de alojamiento web de pago en castellano:
+  * [https://www.siteground.es](https://www.siteground.es) muy recomendada por su atención especializada al cliente para resolver dudas de Wordpress.
+
+Los sevicios de alojamiento web gratuitos serán una buena elección para empezar a probar Wordpress. Pero una vez que el sitio web esté en marcha, empezarás a tener limitaciones que a medio o largo plazo: incluyen publicidad, o van lentos, o la web no está siempre 100% disponible, etc., por lo que conforme se le dé más uso al Wordpress ababará siendo conveniente cambiar a un servidor de pago, que los hay que ofrecen el servicio por precios muy reducidos.
+
+#### Crear cuenta de usuario
 
 Una vez escogida la empresea de hosting, habrá que crearse en ella una cuenta de usuario. También habrá que escoger el nombre de dirección web para el Wordpress, es decir, la URL de acceso desde el navegador, para lo cual se necesitará registrar un dominio, o utilizar un subdominio que nos proporcione la empresa de hosting. Nos proporcionarán datos para acceso al servicio de hosting, que normalmente incluye:
 
@@ -22,7 +39,7 @@ En Internet existen numerosas páginas y videotutoriales detallando el proceso d
 
 * Instalación en hosting de webempresa.com. Centrarse en el apartado "2. Instalar WordPress de manera avanzada. Modo manual": [http://ernestogbustamante.com/instalar-wordpress-hosting/](http://ernestogbustamante.com/instalar-wordpress-hosting/)
 * Si escojes alojamiento en 1and1.es, este tutorial es ideal: [https://www.baquia.com/emprendedores/2013-10-30-11-instalar-wordpress-servidor-11-hosting-proceso-tutorial-dominios-pagina-web](https://www.baquia.com/emprendedores/2013-10-30-11-instalar-wordpress-servidor-11-hosting-proceso-tutorial-dominios-pagina-web)
-* Etc., ya que se puede buscar en Internet "tutorial instalar Wordpress en servidor de hosting web" y obtendrás multitud de más páginas con información.
+* Se puede buscar en Internet "tutorial instalar Wordpress en servidor de hosting web" y obtendrás multitud de páginas con información.
 
 
 
