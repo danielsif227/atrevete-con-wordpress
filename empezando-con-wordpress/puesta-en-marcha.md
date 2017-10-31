@@ -3,7 +3,7 @@
 Para realizar este curso de forma práctica será necesario disponer de un sitio Wordpress con el que puedas ir realizando pruebas de uso así como los ejercicios que se planteen.
 
 * Si deseas realizar este curso para conocer las **funcionalidades básicas** de Wordpress, te valdrá disponer de una cuenta de administrador en cualquier sitio Wordpress, por ejemplo en **wordpress.com**, donde podrás crear tu sitio Wordpress de forma rápida y sencilla y empezar cuanto antes a trabajar con los contenidos del curso. Se simplifica la administración de plugins y la responsabilidad en cuanto a seguridad. Sin embargo, sólo podrás utilizar los plugins que se proporcionan en wordpress.com y no podrás probar los plugins de los que se habla más adelante en el curso.
-* Si deseas realizar este curso para **profundizar y trastear **con las funcionalidades que se pueden realizar con Wordpress, y poder probar y utilizar todos los plugins y funcionalidades que se tratan en este curso, será necesario que dispongas de Wordpress instalado en un "servidor de alojamiento". ES LA OPCIÓN RECOMENDADA PARA ESTE CURSO.
+* Si deseas realizar este curso para **profundizar y trastear **con las funcionalidades que se pueden realizar con Wordpress, y poder probar y utilizar todos los plugins y funcionalidades que se tratan en este curso, será necesario que dispongas de Wordpress instalado en un "servidor de alojamiento". ES LA OPCIÓN RECOMENDADA PARA ESTE CURSO. 
 
 #### **¿Y QUÉ SERVIDOR DE ALOJAMIENTO ESCOJO?**
 
@@ -13,19 +13,23 @@ A continuación se indicará cómo instalar Wordpress paso a paso en [https://es
 
 #### **SERVIDORES DE ALOJAMIENTO**
 
-Existen numerosas "empresas de alojamiento web" para que tu sitio web esté en Internet disponible 24h 365 días.
+Existen numerosas "empresas de alojamiento web" para que tu sitio web esté en Internet disponible 24h 365 días. Aquí destacamos las siguientes:
 
 * Empresas españolas de alojamiento web gratuitas en castellano:
-  * [https://es.000webhost.com](https://es.000webhost.com) funciona suficientemente bien para ser una opción gratuita. \(000webhost es la versión gratuita de [https://hostinger.es](https://hostinger.es)\).
+
+  * [https://es.000webhost.com](https://es.000webhost.com) funciona muy bien para ser una opción gratuita. Existen realmente muy pocas opciones para instalar Wordpress en un servidor de hosting gratuito y que la web de configuración esté en español, y [http://es.000webhost.com](http://es.000webhost.com) es una de ellas. Este proveedor de alojamiento es la versión gratuita de Hostinger. Una vez que tengas totalmente montada tu web en 000webhost y decidas que la página se merece un servidor de hosting de pago, podrás pasar a ser cliente de Hostinger dando clic en “Actualizar a PRO”.
 
 * Empresas españolas de alojamiento web de pago en castellano:
-  * [https://hostinger.es](https://hostinger.es) y [https://raiolanetworks.es](https://raiolanetworks.es) tienen buena reputación en Internet.
-  * [https://www.webempresa.com](https://www.webempresa.com) está muy bien valorada por su alta velocidad de carga.
+
+  * [https://hostinger.es](https://hostinger.es) tiene buena reputación en Internet.
+  * [https://raiolanetworks.es](https://raiolanetworks.es) tiene buena reputación en Internet.
+  * [https://www.webempresa.com](https://www.webempresa.com) está muy bien valorada y quizás sea la mejor opción por su alta velocidad de carga.
 
 * Empresas extranjeras de alojamiento web de pago en castellano:
+
   * [https://www.siteground.es](https://www.siteground.es) muy recomendada por su atención especializada al cliente para resolver dudas de Wordpress.
 
-fLos sevicios de alojamiento gratuitos serán una buena elección para empezar a probar la instalación de Wordpress y la realización de pruebas. Pero una vez que el sitio web esté en marcha, empezarás a tener limitaciones que a medio o largo plazo: incluyen publicidad, o van lentos, o la web no está siempre 100% disponible, etc., por lo que los más probable es que acabes cambiando a un servidor de pago, que realmente ofrecen el servicio por precios muy reducidos.
+Los sevicios de alojamiento web gratuitos serán una buena elección para empezar a probar Wordpress. Pero una vez que el sitio web esté en marcha, empezarás a tener limitaciones que a medio o largo plazo: incluyen publicidad, o van lentos, o la web no está siempre 100% disponible, etc., por lo que los más probable es que acabes cambiando a un servidor de pago, que realmente ofrecen el servicio por precios muy reducidos.
 
 #### ¿DISPONES DE UN WORDPRESS DE CATEDU?
 
