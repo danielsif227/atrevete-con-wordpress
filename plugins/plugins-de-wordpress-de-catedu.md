@@ -8,7 +8,7 @@ Una instalación de Wordpress para un centro educativo en CATEDU viene preinstal
 * Captcha by BestWebSoft: Este plugin pide realizar una operación matemática para entrar al Escritorio de Wordpress, para evitar que hackeen el acceso al Wordpress. Es configurable.
 * Cookie Law Info: Mensaje de aceptación para cumplir con la normativa europea del uso de cookies.
 * Dropdown Menu Widget: Permite poner un menú de forma vertical en una barra lateral.
-* InfiniteWP - Client: Sirve para poder administrar el Wordpress de forma remota desde Catedu para realizar actualizaciones. ¡Ya no se va a usar desde CATEDU, se puede quitar!.
+* InfiniteWP - Client: Sirve para poder administrar el Wordpress de forma remota desde Catedu para realizar actualizaciones. ¡Ya no se va a usar desde CATEDU, si lo tienes instalado, lo mejor es que lo desinstales!.
 * TinyMCE Advanced: Un editor de texto y HTML para las entradas, para edición más visual y avanzada del texto.
 * WP-SMTP: Sirve para que se puedan enviar correos de forma automática desde el Wordpress. Por ejemplo, cuando se da de alta un usuario.
 * Wordfence Security: Plugin con diversas opciones de seguridad para Wordpress y escaneo ante hackeos.
