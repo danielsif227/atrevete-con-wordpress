@@ -5,4 +5,4 @@
 * Consume muchos recursos si está activo y no se usan sus plugins. Por ello conviene **desactivar** los plugins de Jetpack que no deseemos.
 
 
-
+En esta web tienes una guía completa sobre Jetpack: https://raiolanetworks.es/blog/que-es-jetpack-para-wordpress-guia-completa/
