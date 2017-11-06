@@ -3,8 +3,8 @@
 * **Enhanced Media Library**: Para organizar la biblioteca de medios con categorías.
 * **Google Doc Embedder: **para embeber documentos PDF, DOC, etc. en una Entrada \(y también de otras webs si disponemos de su URL: Ejercicio: embeber este PDF en una Entrada: [http://www.rae.es/sites/default/files/Hojear\\_Avellaneda.pdf\](http://www.rae.es/sites/default/files/Hojear_Avellaneda.pdf%29\).
 * **Dropbox Folder Share:** Añadir acceso a una carpeta compartida de Dropbox en el Wordpress.
-* **Meta Slider:** Para poner unas imágenes que vayan rotando entre ellas.
 * **NextGen Gallery: **Permite crear galerías de imágenes y publicarlas en una Página.
+* **Meta Slider:** Sirve para poner unas imágenes que vayan rotando entre ellas. Una vez que tengas el plugin instalado y activado, podrás crear un nuevo _pase de imágenes_, añadirle varias imágenes, y luego incrustar el _pase de imágenes_ en una entrada del Wordpress. Para incrustarlo, tendrás que copiar el Shortcode que Meta Slider genera para el _pase de imágenes_ y pegarlo en el contenido de la entrada.
 
 ## Posicionamiento Web
 
