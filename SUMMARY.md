@@ -12,6 +12,7 @@
   * [Instalar Wordpress en otro alojamiento web](empezando-con-wordpress/instalar-wordpress-en-un-alojamiento-web.md)
 * [Utilizando Wordpress](empezando-con-wordpress/utilizando-wordpress.md)
   * [Nomenclatura](empezando-con-wordpress/nomenclatura.md)
+  * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
   * [Entradas](empezando-con-wordpress/entradas.md)
   * [Páginas](empezando-con-wordpress/paginas.md)
   * [Medios e imágenes](empezando-con-wordpress/medios.md)
@@ -20,7 +21,6 @@
   * [Menús](empezando-con-wordpress/menus.md)
   * [Comentarios y Pingbacks](empezando-con-wordpress/comentarios.md)
   * [Temas](empezando-con-wordpress/temas.md)
-  * [Widgets](empezando-con-wordpress/widgets.md)
   * [Gestión de usuarios](empezando-con-wordpress/usuarios.md)
   * [Más configuraciones](empezando-con-wordpress/mas-configuraciones.md)
 
