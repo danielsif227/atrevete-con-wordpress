@@ -18,13 +18,18 @@ Una vez que hayas confirmado el emal, en el sitio web [https://es.000webhost.com
 
 ![](/assets/hosting4-es-es.png)
 
-Para crear el sitio Wordpress, hay dos opciones: una opción automática, que resulta rápida y fácil pero que sólo está disponible en algunos servidores de alojamiento. Y otra opción manual, lenta y más costosa, pero con la que aprenderás más ya que los servidores de Hosting web ofrecerán siempre una forma similar para instalar Wordpress.  
- **Recomendamos optar por la opción 1 automática, por resultar rápida y fácil.**
+Para crear el sitio Wordpress, hay dos opciones: una opción automática, que resulta rápida y fácil pero que sólo está disponible en algunos servidores de alojamiento. Y otra opción manual, más lenta y costosa, pero más estándar, ya que los servidores de alojamiento web ofrecerán siempre una forma similar para instalar Wordpress.  
+**Se recomienda optar por la opción 1 automática, por resultar rápida y fácil.**
+
+_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:_
+
+```
+Menú de usuario - Mis sitios web - Ajustes (del sitio web) - General - Website sleeping time frame
+```
 
 #### OPCION 1 - AUTOMÁTICA \(rápida y fácil\)
 
-Clic en el botón de la barra superior “Crear sitio web” y clic en "Instalar ahora" en “Build Wordpress Website”  
-.
+Clic en el botón de la barra superior “Crear sitio web” y clic en "Instalar ahora" en “Build Wordpress Website”
 
 ![](/assets/hosting5-boton-crear.png)
 
@@ -50,7 +55,7 @@ Es decir, es la dirección principal de tu sitio web seguido por /wp-admin/ o po
 
 La dirección web pública de tu blog será [https://cursowpaularagon.000webhostapp.com](https://cursowpaularagon.000webhostapp.com) \(notar que deberás cambiar cursowpaularagon pro el nombre de tu sitio web\).
 
-#### OPCION 2 - MANUAL \(lenta y costosa\)
+#### OPCION 2 - MANUAL \(más lenta y costosa\)
 
 Esta opción es más laboriosa, pero con mayor control y aprendizaje sobre la instalación de un sitio Wordpress desde cero. La idea de los pasos a realizar son similares en caso de instalar Wordpress manualmente en otro servidor. A modo de visión general, y teniendo en cuenta que este proceso puede realizarse de diversas formas, los pasos a realizar son:
 
@@ -170,7 +175,7 @@ Habrá que modificar en el archivo el nombre de la Base de Datos, el usuario de 
 
 `define('DB_PASSWORD', ' passwordbd');`
 
-**¡POR FIN!  
+**¡POR FIN!    
 **
 
 Si hemos realizado todo correctamente, ahora ya podemos acceder a la dirección web de nuestro sitio, que en el caso de este ejemplo sería [http://cursowpaularagon.000webhostapp.com](http://cursowpaularagon.000webhostapp.com) y veremos la página de instalación de Wordpress, en la cual vamos a poner el título principal de nuestro blog \(más tarde podremos cambiarlo\) y a crear un usuario ADMINISTRADOR de nuestro sitio web, con una contraseña y nuestro email. Evitaremos que el nombre de usuario sea admin, ya que es un problema de seguridad.
@@ -179,8 +184,7 @@ Si hemos realizado todo correctamente, ahora ya podemos acceder a la dirección 
 
 Ahora podremos entrar al Escritorio de Administración de nuestro blog Wordpress a través de esta dirección:
 
-[https://cursowpaularagon.000webhostapp.com/wp-login.php  
-](https://cursowpaularagon.000webhostapp.com/wp-login.php)
+[https://cursowpaularagon.000webhostapp.com/wp-login.php  ](https://cursowpaularagon.000webhostapp.com/wp-login.php)
 
 o de esta otra:
 
@@ -188,5 +192,5 @@ o de esta otra:
 
 #### ¿Cómo dar de baja la cuenta de usuario?
 
-Una última anotación acerca de 000webhost: cuando termines el curso, si deseas cerrar definitivamente la cuenta que has creado en 000webhost.com y todos sus blog, en el “Menú de usuario – My Profile”, la última opción es “**Cerrar cuenta**”.
+Una última anotación acerca de 000webhost: cuando termines el curso, si deseas cerrar definitivamente la cuenta que has creado en 000webhost.com y todos sus blog, en el “Menú de usuario – Mi Perfil”, la última opción es “**Cerrar cuenta**”.
 
