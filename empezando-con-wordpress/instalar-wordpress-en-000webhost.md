@@ -2,7 +2,7 @@
 
 Esta es la opción recomendada para este curso, porque con ella se podrán probar todos los plugins que se quieran. Notar que este servicio es gratuito y en la zona de administración siempre hay que esperar varios segundos hasta que las operaciones se terminen, por lo tanto habrá que tener un poco de paciencia con la velocidad de carga de las páginas.
 
-En primer lugar, habrá que ir a la página principal de 000webhost entrando en [https://es.000webhost.com](https://es.000webhost.com) y clic en “Registro gratis” para iniciar el proceso de creación de una nueva cuenta de usuario, lo cual te llevará a una página con un formulario para rellenar tu correo electrónico, una contraseña, y el nombre para tu sitio Web \(Website Name\). Lo que pongas como Website Name se utilizará en la dirección de acceso a tu curso. Por ejemplo si se pone _**cursowpaularagon**_, la dirección de acceso sería [https://_cursowpaularagon_.000webhostapp.com](https://curso.000webhostapp.com)
+En primer lugar, habrá que ir a la página principal de 000webhost entrando en [https://es.000webhost.com](https://es.000webhost.com) y clic en “Registro gratis” para iniciar el proceso de creación de una nueva cuenta de usuario, lo cual te llevará a una página con un formulario para rellenar tu correo electrónico, una contraseña, y el nombre para tu sitio Web \(Website Name\). Lo que pongas como Website Name se utilizará en la dirección de acceso a tu curso. Por ejemplo si se pone _**cursowpaularagon**_, la dirección de acceso sería [https://_cursowpaularagon_.000webhostapp.com](https://cursowpaularagon.000webhostapp.com)
 
 ![](/assets/hosting0-alta.png)
 
@@ -21,7 +21,8 @@ Una vez que hayas confirmado el emal, en el sitio web [https://es.000webhost.com
 Para crear el sitio Wordpress, hay dos opciones: una opción automática, que resulta rápida y fácil pero que sólo está disponible en algunos servidores de alojamiento. Y otra opción manual, más lenta y costosa, pero más estándar, ya que los servidores de alojamiento web ofrecerán siempre una forma similar para instalar Wordpress.  
 **Se recomienda optar por la opción 1 automática, por resultar rápida y fácil.**
 
-_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:_
+_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:  
+_
 
 ```
 Menú de usuario - Mis sitios web - Ajustes (del sitio web) - General - Website sleeping time frame
@@ -175,7 +176,7 @@ Habrá que modificar en el archivo el nombre de la Base de Datos, el usuario de 
 
 `define('DB_PASSWORD', ' passwordbd');`
 
-**¡POR FIN!    
+**¡POR FIN!      
 **
 
 Si hemos realizado todo correctamente, ahora ya podemos acceder a la dirección web de nuestro sitio, que en el caso de este ejemplo sería [http://cursowpaularagon.000webhostapp.com](http://cursowpaularagon.000webhostapp.com) y veremos la página de instalación de Wordpress, en la cual vamos a poner el título principal de nuestro blog \(más tarde podremos cambiarlo\) y a crear un usuario ADMINISTRADOR de nuestro sitio web, con una contraseña y nuestro email. Evitaremos que el nombre de usuario sea admin, ya que es un problema de seguridad.
