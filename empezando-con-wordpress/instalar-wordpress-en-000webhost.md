@@ -21,7 +21,7 @@ Una vez que hayas confirmado el emal, en el sitio web [https://es.000webhost.com
 Para crear el sitio Wordpress, hay dos opciones: una opción automática, que resulta rápida y fácil pero que sólo está disponible en algunos servidores de alojamiento. Y otra opción manual, más lenta y costosa, pero más estándar, ya que los servidores de alojamiento web ofrecerán siempre una forma similar para instalar Wordpress.  
 **Se recomienda optar por la opción 1 automática, por resultar rápida y fácil.**
 
-_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:  
+_Adelanto el siguiente comentario una vez que hayas creado tu Wordpress: 000webhost.com ofrece servicio gratuito, por ello, durante 1h al día tu sitio web estará inactivo. Podráss elegir la hora de inactividad que prefieras en la siguiente opción:    
 _
 
 ```
@@ -176,7 +176,7 @@ Habrá que modificar en el archivo el nombre de la Base de Datos, el usuario de 
 
 `define('DB_PASSWORD', ' passwordbd');`
 
-**¡POR FIN!      
+**¡POR FIN!        
 **
 
 Si hemos realizado todo correctamente, ahora ya podemos acceder a la dirección web de nuestro sitio, que en el caso de este ejemplo sería [http://cursowpaularagon.000webhostapp.com](http://cursowpaularagon.000webhostapp.com) y veremos la página de instalación de Wordpress, en la cual vamos a poner el título principal de nuestro blog \(más tarde podremos cambiarlo\) y a crear un usuario ADMINISTRADOR de nuestro sitio web, con una contraseña y nuestro email. Evitaremos que el nombre de usuario sea admin, ya que es un problema de seguridad.
@@ -190,6 +190,12 @@ Ahora podremos entrar al Escritorio de Administración de nuestro blog Wordpress
 o de esta otra:
 
 [https://cursowpaularagon.000webhostapp.com/wp-admin/](https://cursowpaularagon.000webhostapp.com/wp-admin/)
+
+#### ¿Y si quiero mejor servicio?
+
+En las páginas que te irán saliendo te ofrecerán transferir tu sitio web a Hostinger, ya que 000webhost es la versión "low cost" de Hostinger. Para realizar el curso, con 000webhost.com debería ser suficiente.
+
+Hostinger es la versión de pago de 000webhost.com. Si tras realizar el curso prefieres que te den mejor servicio y que tu sitio esté las 24hx7días, 100% disponible y vaya más rápido a todo rendimiento, entonces sí que te puede interesar transferir el sitio a Hostinger y pasarás a tener un servicio de pago, aunque la verdad que si usas en serio tu Wordpress no será un gran desembolso para el beneficio que vas a obtener. También podrás optar por transferir manualmente tu sitio a otro servidor de alojamiento.
 
 #### ¿Cómo dar de baja la cuenta de usuario?
 
