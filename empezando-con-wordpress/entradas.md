@@ -6,7 +6,7 @@ Desde el Escritorio de Wordpress, dispondrás del menú lateral izquierdo, donde
 Acceso en: Escritorio > Entradas > Añadir nueva
 ```
 
-**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida".
+**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" \(no pongas las comillas cuando escribas el título a la entrada\).
 
 ![](/assets/nueva_entrada.png)
 
@@ -20,15 +20,13 @@ En la página de edición de una entrada existen múltiples opciones, a destacar
 * Editor Visual o editor HTML: El editor Visual será el más utilizado, dejando el editor HTML sólo para casos muy puntuales.
 * Extracto: Un breve resumen de la entrada.
 * Imagen destacada \(mejor usar un imagen horizontal\). Opción ¡interesante! porque aparecerá una imagen en la parte superior de la entrada.
-* ¡Visualicemos la entrada! atención al ID de página y al Slug, ya que aparecerán en la dirección web.
+* ¡Visualicemos la entrada!
 
-**PRIMER TRUCO:** clic en "Opciones de pantalla" para ver más opciones en un panel que se despliega desde arriba.
+**PRIMER TRUCO:** clic en "Opciones de pantalla" para ver más opciones en un panel que se despliega desde arriba. Ahí se puede activar la opción "Slug", que traducido sería el nombre identificativo de la página. 
 
 ![](/assets/editar_entrada_blog.png)
 
-**OTRO TRUCO: **Cambiemos a Pretty Permalink desde el inicio en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
-
-**OTRO TRUCO:** El botón "leer más"  ![](/assets/leer-mas.png) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más..."
+**OTRO TRUCO:** El botón "leer más"  ![](/assets/leer-mas.png) \(es un botón específico de Wordpress\) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más..."
 
 ---
 
@@ -36,15 +34,17 @@ En la página de edición de una entrada existen múltiples opciones, a destacar
 
 El administrador de un Wordpress debe tener en cuenta, entre otros, estos criterios:
 
-* Mantener vivo el blog con una frecuencia de 3 entradas/semana aproximadamente.
+* Mantener vivo el blog con una frecuencia de 3 entradas/semana aproximadamente. Tampoco conviene crear muchas más entradas por semana para no saturar a los lectores.
 * Ser respetuoso con lo que se escribe.
 * Cuidar la redacción del texto.
 
-**EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis".
-
-**EJERCICIO:** Añade un enlace a otra web \([http://www.educaragon.org\](http://www.educaragon.org%29\) dentro del contenido de una entrada.
+**EJERCICIO:** Añade un enlace a otra web \([http://www.educaragon.org](http://www.educaragon.org)\) dentro del contenido de la entrada "Bienvenida".
 
 ![](/assets/crear-enlace.png)
 
-**INTERESANTE:** Botón "**Leer más**": ![](/assets/leer-mas.png) Es específico de Wordpress, sirve para mostrar sólo una parte de la entrada y que el lector tenga que darle clic en "leer más..." para terminar de leer toda la entrada.
+**EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis".
+
+**OTRO TRUCO, ACERCA DE LOS SLUG:** Cuando se visualiza la entrada, la dirección de acceso puede estar compuesta con el número ID de entrada o con el Slug. Si se utiliza el número ID de la entrada, la dirección de acceso a las entradas será del estilo http://miwordpress.com/?p=2. Si se utiliza el Slug de la entrada, la dirección de acceso a las entradas es más legible y pasa a ser del estilo  http://miwordpress.com/excursion-a-dinopolis/
+
+¡Para utilizar los Slug, hay que cambiar la opción Pretty Permalink! Esto se cambia en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
 
