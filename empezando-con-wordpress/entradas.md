@@ -6,7 +6,7 @@ Desde el Escritorio de Wordpress, dispondrás del menú lateral izquierdo, donde
 Acceso en: Escritorio > Entradas > Añadir nueva
 ```
 
-**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenida" \(no pongas las comillas cuando escribas el título a la entrada\).
+**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Entrada y llámala "Bienvenido a mi blog" \(no pongas las comillas cuando escribas el título a la entrada\).
 
 ![](/assets/nueva_entrada.png)
 
@@ -22,7 +22,7 @@ En la página de edición de una entrada existen múltiples opciones, a destacar
 * Imagen destacada \(mejor usar un imagen horizontal\). Opción ¡interesante! porque aparecerá una imagen en la parte superior de la entrada.
 * ¡Visualicemos la entrada!
 
-**PRIMER TRUCO:** clic en "Opciones de pantalla" para ver más opciones en un panel que se despliega desde arriba. Ahí se puede activar la opción "Slug", que traducido sería el nombre identificativo de la página. 
+**PRIMER TRUCO:** clic en "Opciones de pantalla" para ver más opciones en un panel que se despliega desde arriba. Ahí se puede activar la opción "Slug", que traducido sería el nombre identificativo de la página.
 
 ![](/assets/editar_entrada_blog.png)
 
@@ -44,7 +44,7 @@ El administrador de un Wordpress debe tener en cuenta, entre otros, estos criter
 
 **EJERCICIO: **Añade una segunda entrada: llámala "Excursión a Dinópolis".
 
-**OTRO TRUCO, ACERCA DE LOS SLUG:** Cuando se visualiza la entrada, la dirección de acceso puede estar compuesta con el número ID de entrada o con el Slug. Si se utiliza el número ID de la entrada, la dirección de acceso a las entradas será del estilo http://miwordpress.com/?p=2. Si se utiliza el Slug de la entrada, la dirección de acceso a las entradas es más legible y pasa a ser del estilo  http://miwordpress.com/excursion-a-dinopolis/
+**OTRO TRUCO, ACERCA DE LOS SLUG:** Cuando se visualiza la entrada, la dirección de acceso puede estar compuesta con el número ID de entrada o con el Slug. Si se utiliza el número ID de la entrada, la dirección de acceso a las entradas será del estilo [http://miwordpress.com/?p=2](http://miwordpress.com/?p=2). Si se utiliza el Slug de la entrada, la dirección de acceso a las entradas es más legible y pasa a ser del estilo  [http://miwordpress.com/excursion-a-dinopolis/](http://miwordpress.com/excursion-a-dinopolis/)
 
 ¡Para utilizar los Slug, hay que cambiar la opción Pretty Permalink! Esto se cambia en `Escritorio > Ajustes > Enlaces permanentes > Nombre de la entrada`
 
