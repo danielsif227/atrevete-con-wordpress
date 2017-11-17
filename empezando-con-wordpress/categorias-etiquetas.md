@@ -10,7 +10,7 @@ Acceso en: Escritorio > Entradas > Categorías
 
 * Podemos construir una **jerarquía **de Categorías.
 
-**EJERCICIO**: crea estas categorías: Dirección, Departamento Matemáticas, Departamento Lengua, etc.
+**EJERCICIO**: crea estas categorías: Dirección, Departamento Matemáticas, Departamento Lengua, Biblioteca, etc.
 
 ![](/assets/categorias.png)
 
