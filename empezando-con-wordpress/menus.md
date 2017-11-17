@@ -16,6 +16,12 @@ Se puede personalizar cada ítem del menú haciendo clic en la flecha que tienen
 
 ![](/assets/crear-menu-3.png)
 
+Si no aparece la opción de añadir Etiquetas al menú, habrá que activar  "Opciones de pantalla -&gt; Etiquetas":
+
+![](/assets/menu-etiquetas-1.png)
+
+![](/assets/menu-etiquetas-2.png)
+
 Por último, al guardar el menú, activar la opción "Menú superior" para que Wordpress lo añada como menú superior principal del sitio web.
 
 ![](/assets/menu-guardar.png)
@@ -46,7 +52,7 @@ Para añadir los ítem del menú de primer nivel, que sean texto sin enlace, añ
 * URL = \#
 * Texto del enlace = Información
 
-Las páginas "Pendientes de publicar", en "Borrador", o "Privada" no aparecerán para ser añadidas en el menú hasta que cambien al estado Publicadas, por tanto: 
+Las páginas "Pendientes de publicar", en "Borrador", o "Privada" no aparecerán para ser añadidas en el menú hasta que cambien al estado Publicadas, por tanto:
 
 * Habrá que esperar a la fecha programada para que se publique la entrada "Quiénes somos", o cambiarle la fecha de publicación a una fecha y hora pasada.
 * Habrá que terminar de editar la página de "Dónde estamos". Una buena idea es incrustar una dirección de Google Maps.  ¡Observar la diferencia entre el editor visual y el editor HTML! Termina de Publicar la página y ahora ya se podrá añadir la página al menú.
@@ -55,8 +61,4 @@ Las páginas "Pendientes de publicar", en "Borrador", o "Privada" no aparecerán
 1º en la edición de la Página, botón derecho del ratón en el "Enlace permanente" - Copiar dirección de enlace![](/assets/enlace-personalizado-1.png)2º en la edición del Menú, crea un ítem de tipo "Enlace personalizado" y en la zona donde escribir la URL, borra lo que haya escrito, y luego Botón derecho del ratón -&gt; Pegar.
 
 ![](/assets/enlace-personalizado-2.png)
-
-
-
-
 
