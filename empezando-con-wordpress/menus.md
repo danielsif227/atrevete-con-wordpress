@@ -52,7 +52,7 @@ Para añadir los ítem del menú de primer nivel, que sean texto sin enlace, añ
 * URL = \#
 * Texto del enlace = Información
 
-Las páginas "Pendientes de publicar", en "Borrador", o "Privada" no aparecerán para ser añadidas en el menú hasta que cambien al estado Publicadas, por tanto:
+Las páginas "Pendientes de publicar", en "Borrador" no aparecerán para ser añadidas en el menú hasta que cambien al estado Publicadas, y las "Privadas" tampoco aparecerán por tanto:
 
 * Habrá que esperar a la fecha programada para que se publique la entrada "Quiénes somos", o cambiarle la fecha de publicación a una fecha y hora pasada.
 * Habrá que terminar de editar la página de "Dónde estamos". Una buena idea es incrustar una dirección de Google Maps.  ¡Observar la diferencia entre el editor visual y el editor HTML! Termina de Publicar la página y ahora ya se podrá añadir la página al menú.
