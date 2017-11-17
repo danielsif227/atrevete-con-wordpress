@@ -6,7 +6,7 @@ Acceso en: Escritorio > Páginas > Añadir nueva
 
 Las Páginas se crean de forma prácticamente idéntica que las Entradas.
 
-**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Página y llámala "Bienvenida" 
+**EJERCICIO: **En el Escritorio de Wordpress, crea una primera Página y llámala "El centro"
 
 Para modificar las opciones de Publicación, están en la zona de "Publicar":
 
