@@ -42,5 +42,5 @@ Se puede personalizar cada ítem del menú haciendo clic en la flecha que tienen
 
 **NOTA:** Las páginas pendientes de publicar o en borrador no aparecen para ser añadidas en el menú.
 
-**EJERCICIO: **Continuar editando la página de "Dónde estamos" e incrustar una dirección de Google Maps.  ¡Observar la diferencia entre el editor visual y el editor HTML! y ya podremos añadir la página al menú.
+**EJERCICIO: **Continuar editando la página de "Dónde estamos" e incrustar una dirección de Google Maps.  ¡Observar la diferencia entre el editor visual y el editor HTML! Termina de publicar la página, que estaba en estado Borrador y ya se podrá añadir la página al menú.
 
