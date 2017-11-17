@@ -18,7 +18,7 @@ Las Páginas se crean de forma prácticamente idéntica que las Entradas.
 
 Las opciones de Publicación están en la zona de "Publicar":
 
-* Borrador: la página todacía no será visible a través de Internet.
+* Borrador: la página todavía no será visible a través de Internet.
 * Visibilidad: permite restringir el acceso a la página, ponilendole una contraseña o permitiendo que sólo accedan a la página los usuarios registrados en el Wordpress \(Privada\).
 * Fecha de publicación: en caso que deseemos programar que la página sea visible públicamente un día y hora más adelante.
 
