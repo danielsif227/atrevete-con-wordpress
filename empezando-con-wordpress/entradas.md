@@ -26,7 +26,7 @@ En la página de edición de una entrada existen múltiples opciones, a destacar
 
 ![](/assets/editar_entrada_blog.png)
 
-**OTRO TRUCO:** El botón "leer más"  ![](/assets/leer-mas.png) \(es un botón específico de Wordpress\) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más..."
+**OTRO TRUCO:** El botón "leer más"  ![](/assets/leer-mas.png) \(es un botón específico de Wordpress\) añade un "_marcador_" en el texto de la entrada que hace que cuando se visualice la lista de entradas, sólo se visualice el texto inicial de la entrada hasta el "_marcador_", y si se quiere leer toda la entrada, el lector tendrá que hacer clic en el enlace "leer más...". Este botón no funciona con todas las plantillas de Wordpress. Aquí hay una web donde explica paso a paso cómo utilizar este botón: [https://es.wikihow.com/agregar-la-opci%C3%B3n-%22leer-m%C3%A1s%22-en-Wordpress](https://es.wikihow.com/agregar-la-opci%C3%B3n-%22leer-m%C3%A1s%22-en-Wordpress)
 
 ---
 
