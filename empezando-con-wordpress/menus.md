@@ -12,13 +12,15 @@ Una vez que se han añadido los ítems que se deseen al menú, se pueden reorden
 
 ![](/assets/crear-menu-2.png)
 
-Se puede personalizar cada ítem del menú haciendo clic en la flecha que tienen a la derecha y se puede cambiar el nombre con el que se mostrarán.
+Se puede "configurar" cada ítem del menú haciendo clic en la flecha que tienen a la derecha y se puede cambiar el nombre con el que se mostrarán.
 
 ![](/assets/crear-menu-3.png)
 
-Si no aparece la opción de añadir Etiquetas al menú, habrá que activar  "Opciones de pantalla -&gt; Etiquetas":
+Nota: Si no aparece la opción de añadir Etiquetas al menú, habrá que activar  "Opciones de pantalla -&gt; Etiquetas":
 
 ![](/assets/menu-etiquetas-1.png)
+
+**TRUCO:** en "Opciones de pantalla" activa la casilla "**Destino del enlace**" y luego en la configuración de cada item del menú podrás configurar que al hacer clic en item del menú, se abra en una nueva pestaña.
 
 ![](/assets/menu-etiquetas-2.png)
 
